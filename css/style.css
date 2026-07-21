@@ -1,0 +1,161 @@
+*{
+  box-sizing:border-box;
+}
+
+body{
+  margin:0;
+  font-family: Arial, Helvetica, sans-serif;
+  background:#0b1120;
+  color:white;
+}
+
+nav{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:20px 40px;
+  background:#111827;
+  position:sticky;
+  top:0;
+  z-index:10;
+}
+
+.logo{
+  font-size:22px;
+  font-weight:bold;
+  color:#facc15;
+}
+
+.nav-links a{
+  color:white;
+  text-decoration:none;
+  margin:0 10px;
+  transition:.3s;
+}
+
+.nav-links a:hover{
+  color:#facc15;
+}
+
+.hero{
+  min-height:600px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  text-align:center;
+  background: linear-gradient(135deg, #111827, #1e293b);
+}
+
+.hero h1{
+  font-size:60px;
+  margin-bottom:20px;
+}
+
+.hero p{
+  font-size:22px;
+  color:#cbd5e1;
+}
+
+.page-header{
+  min-height:220px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  text-align:center;
+  background: linear-gradient(135deg, #111827, #1e293b);
+  padding:40px 20px;
+  border-bottom:1px solid rgba(255,255,255,.08);
+}
+
+.page-header-content{
+  max-width:700px;
+  max-height:300px;
+}
+
+.eyebrow{
+  text-transform:uppercase;
+  letter-spacing:.2em;
+  color:#facc15;
+  font-size:.85rem;
+  font-weight:bold;
+  margin-bottom:10px;
+}
+
+.page-header h1{
+  font-size:42px;
+  margin:0 0 14px;
+}
+
+.page-header p{
+  font-size:18px;
+  color:#cbd5e1;
+  margin:0;
+}
+
+.button{
+  display:inline-block;
+  padding:14px 25px;
+  background:#facc15;
+  color:#111827;
+  font-weight:bold;
+  border-radius:12px;
+  text-decoration:none;
+  margin:10px;
+  transition:.3s;
+}
+
+.button:hover{
+  transform:translateY(-4px);
+}
+
+.secondary{
+  background:#334155;
+  color:white;
+}
+
+.stats{
+  display:grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap:20px;
+  padding:40px;
+}
+
+.stat-card,
+.card{
+  background:#1e293b;
+  padding:25px;
+  border-radius:20px;
+  transition:.3s;
+}
+
+.stat-card:hover,
+.card:hover{
+  transform:translateY(-8px);
+  box-shadow: 0 10px 30px rgba(0,0,0,.4);
+}
+
+.section{
+  max-width:1100px;
+  margin:auto;
+  padding:50px 30px;
+}
+
+.cards{
+  display:grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap:20px;
+}
+
+.prize{
+  background:#111827;
+  padding:20px;
+  border-radius:15px;
+  margin:20px 0;
+  color:#facc15;
+}
+
+footer{
+  text-align:center;
+  padding:40px;
+}
+
