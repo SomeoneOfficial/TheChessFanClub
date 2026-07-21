@@ -159,3 +159,35 @@ footer{
   padding:40px;
 }
 
+.images{
+  display:grid;
+  grid-template-columns:repeat(auto-fit, minmax(140px, 1fr));
+  gap:16px;
+}
+
+.images img{
+  width:100%;
+  aspect-ratio:16 / 9;
+  object-fit:cover;
+  border-radius:12px;
+  cursor:pointer;
+  transition:transform .3s ease, box-shadow .3s ease;
+}
+
+.images img:hover{
+  transform:scale(1.05);
+  box-shadow:0 10px 20px rgba(0,0,0,.35);
+}
+
+.images img:active{
+    transition:none;
+    position:fixed;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    width:80vw;
+    max-width:1200px;
+    max-height:90vh;
+    object-fit:contain;
+    z-index:9999;
+}
