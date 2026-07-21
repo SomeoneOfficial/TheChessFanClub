@@ -1,0 +1,80 @@
+{
+    "team": "the-chess-fan-club",
+    "updated": "2026-07-21T19:14:21.273403",
+    "total_players": 12,
+    "total_entries_processed": 7422,
+    "players": [
+        {
+            "username": "Daniel1728",
+            "points": 35,
+            "tournaments": 1,
+            "wins": 0
+        },
+        {
+            "username": "Imnotonmyday",
+            "points": 26,
+            "tournaments": 1,
+            "wins": 0
+        },
+        {
+            "username": "Allez-OM",
+            "points": 22,
+            "tournaments": 1,
+            "wins": 0
+        },
+        {
+            "username": "X0L55",
+            "points": 6,
+            "tournaments": 1,
+            "wins": 0
+        },
+        {
+            "username": "sacrifice247",
+            "points": 6,
+            "tournaments": 1,
+            "wins": 0
+        },
+        {
+            "username": "LionelMessiFCB",
+            "points": 6,
+            "tournaments": 2,
+            "wins": 0
+        },
+        {
+            "username": "Frandenegri",
+            "points": 5,
+            "tournaments": 1,
+            "wins": 0
+        },
+        {
+            "username": "GambitGuru003",
+            "points": 4,
+            "tournaments": 1,
+            "wins": 0
+        },
+        {
+            "username": "ShaaruAbi2008",
+            "points": 3,
+            "tournaments": 2,
+            "wins": 0
+        },
+        {
+            "username": "AVYUKT_GARG",
+            "points": 0,
+            "tournaments": 1,
+            "wins": 0
+        },
+        {
+            "username": "sdrf_tajik",
+            "points": 0,
+            "tournaments": 1,
+            "wins": 0
+        },
+        {
+            "username": "rubiktibor123",
+            "points": 0,
+            "tournaments": 3,
+            "wins": 0
+        }
+    ]
+}
