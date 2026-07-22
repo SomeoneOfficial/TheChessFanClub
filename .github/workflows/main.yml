@@ -35,7 +35,7 @@ jobs:
       - name: Run Python script
         env:
           LICHESS_TOKEN: ${{ secrets.LICHESS_TOKEN }}
-        run: python Fetch.py
+        run: python Fetch/Fetch.py
 
       - name: Commit changes
         run: |
