@@ -1,10 +1,16 @@
 name: Update JSON
 
 on:
+  # Run every time code is pushed
+  push:
+    branches:
+      - main
+
+  # Run every hour
   schedule:
-    # Every hour
     - cron: '0 * * * *'
 
+  # Allow manual runs
   workflow_dispatch:
 
 permissions:
@@ -35,7 +41,7 @@ jobs:
       - name: Run Python script
         env:
           LICHESS_TOKEN: ${{ secrets.LICHESS_TOKEN }}
-        run: python Fetch.py
+        run: python Fetch/Fetch.py
 
       - name: Commit changes
         run: |
