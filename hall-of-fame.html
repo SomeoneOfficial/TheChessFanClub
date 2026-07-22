@@ -3,44 +3,62 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Hall of Fame</title>
+  <title>The Chess Fan Club - Dashboard</title>
+  <!-- Link to your separate dark mode stylesheet -->
   <link rel="stylesheet" href="css/style.css">
 </head>
-<body>
+<body class="dark-theme">
+  <!-- Reusable navigation element loaded from site-nav.js -->
   <site-nav></site-nav>
 
   <header class="page-header">
     <div class="page-header-content">
-      <p class="eyebrow">Community Hall</p>
-      <h1>Hall of Fame</h1>
-      <p>Celebrate the champions, founders, and legends who helped shape the club.</p>
+      <p class="eyebrow">Club Hub</p>
+      <h1>The Chess Fan Club</h1>
     </div>
   </header>
 
-  <section class="section">
-    <div class="cards">
-      <div class="card">
-        <h2>Tournament Champions</h2>
-        <p>Player Name</p>
-        <p>ChessMood Cup Champion</p>
-      </div>
-      <div class="card">
-        <h2>Founding Members</h2>
-        <p>Members who helped build The Chess Fan Club.</p>
-        <a href="https://lichess.org/@/SJisland" style="color: #fbff00;" target="_blank" rel="noopener noreferrer">SJisland</a>
-      </div>
-      <div class="card">
-        <h2>Legends</h2>
-        <p>Players who contributed, helped events, and supported the community.</p>
-      </div>
-    </div>
-
-      
+  <!-- Optimized Precise Dashboard Layout Container -->
+  <main class="dashboard-grid">
     
-  </section>
+    <!-- Left Section: Recent Joiners Roster -->
+    <section class="dashboard-section joiners-section">
+      <h2>👥 Newest Members</h2>
+      <div id="joiners-list" class="joiners-list">
+        <div class="loading-state">Loading roster...</div>
+      </div>
+    </section>
 
-  <footer>© 2026 The Chess Fan Club</footer>
+    <!-- Right Section: Hall of Fame Section (Reserved Placeholder) -->
+    <section class="dashboard-section hall-of-fame-section">
+      <h2>✨ Hall of Fame</h2>
+      <div class="fame-container">
+        <div class="fame-placeholder-card">
+          <span class="fame-medal">👑</span>
+          <div class="fame-meta">
+            <h4>Club Champion</h4>
+            <p>Coming Soon</p>
+          </div>
+        </div>
+        <div class="fame-placeholder-card">
+          <span class="fame-medal">🔥</span>
+          <div class="fame-meta">
+            <h4>Top Contributor</h4>
+            <p>Coming Soon</p>
+          </div>
+        </div>
+      </div>
+    </section>
 
+  </main>
+
+  <footer>
+    <p>© 2026 The Chess Fan Club</p>
+    <p>Built by chess fans, for chess fans ♟️</p>
+  </footer>
+
+  <!-- Include your separate scripts at the bottom -->
+  <script src="js/sync/SyncHallOfFame.js"></script>
   <script src="js/script.js"></script>
 </body>
 </html>

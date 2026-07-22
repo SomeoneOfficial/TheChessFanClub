@@ -16,17 +16,25 @@ headers = {
 }
 
 def load_cached_data():
-    """Loads existing tournament data from JSON to resume progress."""
+    """Loads existing data from JSON to resume progress and retain static metrics."""
     if os.path.exists(save_path):
         try:
             with open(save_path, "r", encoding="utf-8") as f:
                 data = json.load(f)
-                if "tournaments" in data and "player_leaderboard" in data:
-                    print(f"🔄 Resuming from existing cache ({len(data['tournaments'])} tournaments loaded).")
-                    return data
+                # Safeguard and initialize all required root JSON structural keys
+                if "tournaments" not in data: data["tournaments"] = {}
+                if "player_leaderboard" not in data: data["player_leaderboard"] = {}
+                if "upcoming_tournaments" not in data: data["upcoming_tournaments"] = []
+                if "recent_joiners" not in data: data["recent_joiners"] = []
+                return data
         except Exception as e:
             print(f"⚠️ Failed to parse existing JSON cache ({e}). Starting fresh.")
-    return {"tournaments": {}, "player_leaderboard": {}}
+    return {
+        "tournaments": {}, 
+        "player_leaderboard": {}, 
+        "upcoming_tournaments": [], 
+        "recent_joiners": []
+    }
 
 def get_team_battles(team_slug):
     arena_url = f"https://lichess.org/api/team/{team_slug}/arena"
@@ -61,6 +69,33 @@ def fetch_tournament_data(session, tournament_id):
     except Exception:
         return clean_id, None
 
+def fetch_recent_joiners(team_slug):
+    """Fetches the team roster and filters out the 5 most recent joiners."""
+    users_url = f"https://lichess.org/api/team/{team_slug}/users"
+    print(f"Fetching team roster from: {users_url}")
+    recent_members = []
+    
+    try:
+        # Lichess outputs users in NDJSON format sorted by join date (newest first)
+        response = requests.get(users_url, headers=headers, stream=True)
+        if response.status_code == 200:
+            for line in response.iter_lines():
+                if line:
+                    user_data = json.loads(line.decode('utf-8'))
+                    # Standardize fields to keep web payload small
+                    recent_members.append({
+                        "username": user_data.get("username"),
+                        "id": user_data.get("id")
+                    })
+                    if len(recent_members) >= 5:
+                        break
+        else:
+            print(f"⚠️ Failed to fetch team members. HTTP {response.status_code}")
+    except Exception as e:
+        print(f"⚠️ Error streaming recent joiners: {e}")
+        
+    return recent_members
+
 if __name__ == "__main__":
     print(f"Starting leaderboard accumulation for team: {team_id}...")
     
@@ -73,13 +108,32 @@ if __name__ == "__main__":
     if not all_battles:
         print("No team battle arenas found to analyze.")
     else:
-        # Filter 1: Only include finished tournaments (status 30 and no secondsToStart)
+        # 1. PROCESS UPCOMING TOURNAMENTS
+        # Filters out anything containing 'secondsToStart' or status values that aren't finished (30)
+        upcoming_battles = [
+            b for b in all_battles 
+            if "secondsToStart" in b or b.get("status") != 30
+        ]
+        
+        # Format the upcoming arrays nicely with metadata and explicit page links
+        cache["upcoming_tournaments"] = []
+        for b in upcoming_battles:
+            b_id = b.get("id")
+            cache["upcoming_tournaments"].append({
+                "id": b_id,
+                "fullName": b.get("fullName", "Unnamed Arena"),
+                "link": f"https://lichess.org/tournament/{b_id}",
+                "startsAt": b.get("startsAt"),
+                "secondsToStart": b.get("secondsToStart")
+            })
+        print(f"📅 Captured {len(cache['upcoming_tournaments'])} upcoming/open arenas.")
+
+        # 2. FILTER FINISHED TOURNAMENTS FOR LEADERBOARD
         valid_battles = [
             b for b in all_battles 
             if b.get("status") == 30 and "secondsToStart" not in b
         ]
         
-        # Filter 2: Skip tournaments already fetched in our JSON file
         battles_to_fetch = {
             b.get("id"): b for b in valid_battles 
             if b.get("id") and b.get("id") not in cached_tournaments
@@ -107,10 +161,11 @@ if __name__ == "__main__":
                             
                         print(f"✅ Processing: {b_name} ({b_id})")
                         
-                        # Store metadata
+                        # Store historical meta and generated link reference
                         date_finished = battle_info.get("startsAt", "Unknown Date")
                         cached_tournaments[b_id] = {
                             "fullName": b_name,
+                            "link": f"https://lichess.org/tournament/{b_id}",
                             "date": date_finished
                         }
                         
@@ -122,6 +177,10 @@ if __name__ == "__main__":
                                 
                                 current_score = cache["player_leaderboard"].get(username, 0)
                                 cache["player_leaderboard"][username] = current_score + points
+
+        # 3. FETCH RECENT TEAM JOINERS
+        cache["recent_joiners"] = fetch_recent_joiners(team_id)
+        print(f"👥 Updated recent joiners list ({len(cache['recent_joiners'])} members listed).")
 
         # Sort leaderboard based on accumulated history plus new changes (sorted by points descending)
         sorted_leaderboard = sorted(

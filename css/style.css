@@ -279,3 +279,215 @@ footer{
     color: #64748b;
     font-size: 1.1rem;
 }
+
+
+
+
+
+/*hall of fame*/
+/* Core Dark Theme Settings */
+body.dark-theme {
+    background-color: #0b0f19; /* Deep midnight blue */
+    color: #f1f5f9;
+    margin: 0;
+    font-family: system-ui, -apple-system, sans-serif;
+}
+
+/* Page Header Customizations */
+.page-header {
+    background: linear-gradient(180deg, #1e293b 0%, #0b0f19 100%);
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.page-header h1 {
+    margin: 10px 0 0 0;
+    font-size: 2.5rem;
+    color: #ffffff;
+}
+
+.eyebrow {
+    color: #3b82f6;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    margin: 0;
+}
+
+/* Dashboard Structural Grid */
+.dashboard-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 30px;
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+@media (min-width: 768px) {
+    .dashboard-grid {
+        grid-template-columns: 1fr 1fr; /* Spreads the two remaining sections evenly across the screen */
+    }
+}
+
+
+.sidebar-column {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+/* Card Section Boxes */
+.dashboard-section {
+    background: #111827; /* Rich dark container */
+    padding: 24px;
+    border-radius: 16px;
+    border: 1px solid #1f2937;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.3);
+}
+
+.dashboard-section h2 {
+    font-size: 1.25rem;
+    color: #ffffff;
+    margin-top: 0;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #1f2937;
+    padding-bottom: 12px;
+}
+
+/* === UPCOMING TOURNAMENTS (DARK MODE) === */
+.upcoming-list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.match-card {
+    display: block;
+    text-decoration: none;
+    background: #1f2937;
+    padding: 16px;
+    border-radius: 12px;
+    border-left: 4px solid #3b82f6; /* Electric blue badge strip */
+    transition: transform 0.2s, background-color 0.2s;
+}
+
+.match-card:hover {
+    background: #2563eb; /* Active state glow */
+    transform: translateY(-2px);
+}
+
+.match-card:hover .match-name {
+    color: #ffffff;
+}
+
+.match-card:hover .match-meta {
+    color: #e2e8f0;
+}
+
+.match-name {
+    font-weight: 700;
+    color: #60a5fa;
+    margin-bottom: 6px;
+    font-size: 1.1rem;
+}
+
+.match-meta {
+    font-size: 0.85rem;
+    color: #9ca3af;
+}
+
+/* === RECENT JOINERS (DARK MODE) === */
+.joiners-list {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.joiner-tag {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    background: #1f2937;
+    padding: 12px 16px;
+    border-radius: 10px;
+    font-weight: 500;
+    color: #e2e8f0;
+    border: 1px solid #374151;
+}
+
+.joiner-icon {
+    color: #10b981; /* High-contrast green online dot */
+    font-size: 0.8rem;
+}
+
+/* Removes default link styling from the user cards */
+.joiner-link {
+    text-decoration: none;
+    display: block;
+    color: inherit;
+}
+
+/* Optional: Slight color shift on hover to make it feel clickable */
+.joiner-link:hover .joiner-tag {
+    background-color: #242f42;
+    border-color: #4b5563;
+    cursor: pointer;
+}
+
+
+/* === HALL OF FAME PLACEHOLDER STYLING === */
+.fame-container {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.fame-placeholder-card {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    background: #111827;
+    padding: 14px;
+    border-radius: 12px;
+    border: 1px dashed #374151; /* Dashed style points out coming soon items */
+    opacity: 0.7;
+}
+
+.fame-medal {
+    font-size: 1.75rem;
+}
+
+.fame-meta h4 {
+    margin: 0;
+    font-size: 0.95rem;
+    color: #9ca3af;
+}
+
+.fame-meta p {
+    margin: 4px 0 0 0;
+    font-size: 0.85rem;
+    color: #6b7280;
+    font-weight: 600;
+}
+
+/* Footer & Global Classes */
+footer {
+    text-align: center;
+    padding: 40px 20px;
+    color: #4b5563;
+    font-size: 0.9rem;
+    border-top: 1px solid #111827;
+    margin-top: 60px;
+}
+
+footer p {
+    margin: 4px 0;
+}
+
+.loading-state {
+    text-align: center;
+    padding: 24px;
+    color: #6b7280;
+    font-style: italic;
+}
