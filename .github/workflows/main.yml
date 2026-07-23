@@ -7,8 +7,9 @@ on:
       - main
 
   # Run every hour
+
   schedule:
-    - cron: '0 * * * *'
+    - cron: '*/5 * * * *'
 
   # Allow manual runs
   workflow_dispatch:
