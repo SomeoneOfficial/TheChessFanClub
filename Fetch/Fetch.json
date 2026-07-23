@@ -160,6 +160,11 @@
             "fullName": "LIGA TITANES VIII BLITZ Team Battle",
             "link": "https://lichess.org/tournament/Iu7AJsrm",
             "date": 1784772000000
+        },
+        "6QBpRrsF": {
+            "fullName": "Lichess Liga 18A Team Battle",
+            "link": "https://lichess.org/tournament/6QBpRrsF",
+            "date": 1784829660000
         }
     },
     "player_leaderboard": {
@@ -231,12 +236,6 @@
             "fullName": "15+15-Sonntagnachmittag Team Battle",
             "link": "https://lichess.org/tournament/fhlQiqPe",
             "startsAt": 1785072600000
-        },
-        {
-            "id": "6QBpRrsF",
-            "fullName": "Lichess Liga 18A Team Battle",
-            "link": "https://lichess.org/tournament/6QBpRrsF",
-            "startsAt": 1784829660000
         }
     ],
     "recent_joiners": [
