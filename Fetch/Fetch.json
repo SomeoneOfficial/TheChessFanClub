@@ -215,6 +215,12 @@
             "startsAt": 1785348000000
         },
         {
+            "id": "jGlGk30d",
+            "fullName": "2nd MEGA SMALL Team Battle",
+            "link": "https://lichess.org/tournament/jGlGk30d",
+            "startsAt": 1785088800000
+        },
+        {
             "id": "hMTvHAWq",
             "fullName": "THE CLASSROOM TEAM BATTLE-1 Team Battle",
             "link": "https://lichess.org/tournament/hMTvHAWq",
@@ -227,10 +233,10 @@
             "startsAt": 1785072600000
         },
         {
-            "id": "jGlGk30d",
-            "fullName": "2nd MEGA SMALL Team Battle",
-            "link": "https://lichess.org/tournament/jGlGk30d",
-            "startsAt": 1784827731735
+            "id": "6QBpRrsF",
+            "fullName": "Lichess Liga 18A Team Battle",
+            "link": "https://lichess.org/tournament/6QBpRrsF",
+            "startsAt": 1784829660000
         }
     ],
     "recent_joiners": [
