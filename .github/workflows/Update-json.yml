@@ -1,17 +1,14 @@
 name: Update JSON
 
 on:
-  # Run every time code is pushed
+  # Accepts external triggers from cron-job.org
+  repository_dispatch:
+    types: [run-fetch]
+
+  # Optional: keep push and manual triggers active
   push:
     branches:
       - main
-
-  # Run every hour
-
-  schedule:
-    - cron: '*/5 * * * *'
-
-  # Allow manual runs
   workflow_dispatch:
 
 permissions:
@@ -24,13 +21,12 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+          cache: 'pip'
 
       - name: Install dependencies
         run: |
@@ -44,7 +40,7 @@ jobs:
           LICHESS_TOKEN: ${{ secrets.LICHESS_TOKEN }}
         run: python Fetch/Fetch.py
 
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
