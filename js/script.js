@@ -14,7 +14,7 @@ this.innerHTML = `
 		<a href="hall-of-fame.html">Hall of Fame</a>
 		<a href="leaderboard.html">Leaderboard</a>
 		<a href="rewards.html">Rewards</a>
-		<a href="LichessExtension.html">Lichess Extension</a>
+		<a href="lichess-extension.html">Lichess Extension</a>
 	</div>
 </nav>`;
 }
