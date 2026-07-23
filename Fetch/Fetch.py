@@ -123,9 +123,7 @@ if __name__ == "__main__":
                 "id": b_id,
                 "fullName": b.get("fullName", "Unnamed Arena"),
                 "link": f"https://lichess.org/tournament/{b_id}",
-                "startsAt": b.get("startsAt"),
-                "secondsToStart": b.get("secondsToStart")
-            })
+                "startsAt": b.get("startsAt"),            })
         print(f"📅 Captured {len(cache['upcoming_tournaments'])} upcoming/open arenas.")
 
         # 2. FILTER FINISHED TOURNAMENTS FOR LEADERBOARD
