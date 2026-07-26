@@ -241,6 +241,10 @@
     "recent_joiners": [
         {
             "username": null,
+            "id": "raja51"
+        },
+        {
+            "username": null,
             "id": "maphero007"
         },
         {
@@ -254,10 +258,6 @@
         {
             "username": null,
             "id": "hangrycaterpillar"
-        },
-        {
-            "username": null,
-            "id": "bryzmartin2014"
         }
     ]
 }
