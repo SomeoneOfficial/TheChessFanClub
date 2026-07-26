@@ -170,6 +170,11 @@
             "fullName": "THE CLASSROOM TEAM BATTLE-1 Team Battle",
             "link": "https://lichess.org/tournament/hMTvHAWq",
             "date": 1785079800000
+        },
+        "fhlQiqPe": {
+            "fullName": "15+15-Sonntagnachmittag Team Battle",
+            "link": "https://lichess.org/tournament/fhlQiqPe",
+            "date": 1785072600000
         }
     },
     "player_leaderboard": {
@@ -231,12 +236,6 @@
             "fullName": "Lichess Bullet League 38B Team Battle",
             "link": "https://lichess.org/tournament/yT22S6m5",
             "startsAt": 1785348000000
-        },
-        {
-            "id": "fhlQiqPe",
-            "fullName": "15+15-Sonntagnachmittag Team Battle",
-            "link": "https://lichess.org/tournament/fhlQiqPe",
-            "startsAt": 1785072600000
         }
     ],
     "recent_joiners": [
