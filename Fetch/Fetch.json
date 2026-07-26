@@ -165,6 +165,11 @@
             "fullName": "Lichess Liga 18A Team Battle",
             "link": "https://lichess.org/tournament/6QBpRrsF",
             "date": 1784829660000
+        },
+        "hMTvHAWq": {
+            "fullName": "THE CLASSROOM TEAM BATTLE-1 Team Battle",
+            "link": "https://lichess.org/tournament/hMTvHAWq",
+            "date": 1785079800000
         }
     },
     "player_leaderboard": {
@@ -198,7 +203,9 @@
         "dodyeng": 0,
         "Knightmare76": 0,
         "Trapsen": 0,
-        "VPonsonn": 0
+        "VPonsonn": 0,
+        "raviteja1287": 0,
+        "Inampudi": 0
     },
     "upcoming_tournaments": [
         {
@@ -224,12 +231,6 @@
             "fullName": "Lichess Bullet League 38B Team Battle",
             "link": "https://lichess.org/tournament/yT22S6m5",
             "startsAt": 1785348000000
-        },
-        {
-            "id": "hMTvHAWq",
-            "fullName": "THE CLASSROOM TEAM BATTLE-1 Team Battle",
-            "link": "https://lichess.org/tournament/hMTvHAWq",
-            "startsAt": 1785079800000
         },
         {
             "id": "fhlQiqPe",
