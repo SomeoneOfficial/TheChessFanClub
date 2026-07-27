@@ -220,10 +220,28 @@
             "startsAt": 1798711200000
         },
         {
+            "id": "nmthEbGv",
+            "fullName": "Best Ultra League 435th Team Battle",
+            "link": "https://lichess.org/tournament/nmthEbGv",
+            "startsAt": 1785758400000
+        },
+        {
             "id": "a3SIAC6B",
             "fullName": "15+15-Sonntagnachmittag Team Battle",
             "link": "https://lichess.org/tournament/a3SIAC6B",
             "startsAt": 1785677400000
+        },
+        {
+            "id": "xNOHNMBG",
+            "fullName": "Best Ultra League 434th Team Battle",
+            "link": "https://lichess.org/tournament/xNOHNMBG",
+            "startsAt": 1785672000000
+        },
+        {
+            "id": "jXLdzBm1",
+            "fullName": "Best Ultra League 433rd Team Battle",
+            "link": "https://lichess.org/tournament/jXLdzBm1",
+            "startsAt": 1785585600000
         },
         {
             "id": "jGlGk30d",
@@ -232,10 +250,34 @@
             "startsAt": 1785520800000
         },
         {
+            "id": "5HSgym47",
+            "fullName": "Best Ultra League 432nd Team Battle",
+            "link": "https://lichess.org/tournament/5HSgym47",
+            "startsAt": 1785499200000
+        },
+        {
+            "id": "S7qSVjeH",
+            "fullName": "Best Ultra League 431st Team Battle",
+            "link": "https://lichess.org/tournament/S7qSVjeH",
+            "startsAt": 1785412800000
+        },
+        {
             "id": "yT22S6m5",
             "fullName": "Lichess Bullet League 38B Team Battle",
             "link": "https://lichess.org/tournament/yT22S6m5",
             "startsAt": 1785348000000
+        },
+        {
+            "id": "3byYpSQU",
+            "fullName": "Best Ultra League 430th Team Battle",
+            "link": "https://lichess.org/tournament/3byYpSQU",
+            "startsAt": 1785326400000
+        },
+        {
+            "id": "6PAqKljC",
+            "fullName": "Best Ultra League 429th Team Battle",
+            "link": "https://lichess.org/tournament/6PAqKljC",
+            "startsAt": 1785240000000
         }
     ],
     "recent_joiners": [
