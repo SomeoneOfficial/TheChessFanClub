@@ -175,6 +175,11 @@
             "fullName": "15+15-Sonntagnachmittag Team Battle",
             "link": "https://lichess.org/tournament/fhlQiqPe",
             "date": 1785072600000
+        },
+        "6PAqKljC": {
+            "fullName": "Best Ultra League 429th Team Battle",
+            "link": "https://lichess.org/tournament/6PAqKljC",
+            "date": 1785240000000
         }
     },
     "player_leaderboard": {
@@ -272,12 +277,6 @@
             "fullName": "Best Ultra League 430th Team Battle",
             "link": "https://lichess.org/tournament/3byYpSQU",
             "startsAt": 1785326400000
-        },
-        {
-            "id": "6PAqKljC",
-            "fullName": "Best Ultra League 429th Team Battle",
-            "link": "https://lichess.org/tournament/6PAqKljC",
-            "startsAt": 1785240000000
         }
     ],
     "recent_joiners": [
