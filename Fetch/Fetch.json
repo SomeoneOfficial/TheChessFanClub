@@ -185,13 +185,18 @@
             "fullName": "Best Ultra League 430th Team Battle",
             "link": "https://lichess.org/tournament/3byYpSQU",
             "date": 1785326400000
+        },
+        "yT22S6m5": {
+            "fullName": "Lichess Bullet League 38B Team Battle",
+            "link": "https://lichess.org/tournament/yT22S6m5",
+            "date": 1785348000000
         }
     },
     "player_leaderboard": {
         "Sjisland_The_Zerker": 136,
         "chessuae": 121,
-        "AJisland": 70,
-        "Pranav_Arunprasad": 51,
+        "Pranav_Arunprasad": 81,
+        "AJisland": 75,
         "Daniel1728": 35,
         "Imnotonmyday": 26,
         "Allez-OM": 22,
@@ -271,12 +276,6 @@
             "fullName": "Best Ultra League 431st Team Battle",
             "link": "https://lichess.org/tournament/S7qSVjeH",
             "startsAt": 1785412800000
-        },
-        {
-            "id": "yT22S6m5",
-            "fullName": "Lichess Bullet League 38B Team Battle",
-            "link": "https://lichess.org/tournament/yT22S6m5",
-            "startsAt": 1785348000000
         }
     ],
     "recent_joiners": [
