@@ -180,6 +180,11 @@
             "fullName": "Best Ultra League 429th Team Battle",
             "link": "https://lichess.org/tournament/6PAqKljC",
             "date": 1785240000000
+        },
+        "3byYpSQU": {
+            "fullName": "Best Ultra League 430th Team Battle",
+            "link": "https://lichess.org/tournament/3byYpSQU",
+            "date": 1785326400000
         }
     },
     "player_leaderboard": {
@@ -197,6 +202,7 @@
         "SJisland": 10,
         "Adriencanplaychess": 9,
         "arcos_25": 8,
+        "Master_of_lions": 8,
         "X0L55": 6,
         "sacrifice247": 6,
         "ekaterina_vovna": 6,
@@ -271,12 +277,6 @@
             "fullName": "Lichess Bullet League 38B Team Battle",
             "link": "https://lichess.org/tournament/yT22S6m5",
             "startsAt": 1785348000000
-        },
-        {
-            "id": "3byYpSQU",
-            "fullName": "Best Ultra League 430th Team Battle",
-            "link": "https://lichess.org/tournament/3byYpSQU",
-            "startsAt": 1785326400000
         }
     ],
     "recent_joiners": [
