@@ -190,6 +190,11 @@
             "fullName": "Lichess Bullet League 38B Team Battle",
             "link": "https://lichess.org/tournament/yT22S6m5",
             "date": 1785348000000
+        },
+        "S7qSVjeH": {
+            "fullName": "Best Ultra League 431st Team Battle",
+            "link": "https://lichess.org/tournament/S7qSVjeH",
+            "date": 1785412800000
         }
     },
     "player_leaderboard": {
@@ -270,12 +275,6 @@
             "fullName": "Best Ultra League 432nd Team Battle",
             "link": "https://lichess.org/tournament/5HSgym47",
             "startsAt": 1785499200000
-        },
-        {
-            "id": "S7qSVjeH",
-            "fullName": "Best Ultra League 431st Team Battle",
-            "link": "https://lichess.org/tournament/S7qSVjeH",
-            "startsAt": 1785412800000
         }
     ],
     "recent_joiners": [
