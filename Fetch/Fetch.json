@@ -281,6 +281,10 @@
     "recent_joiners": [
         {
             "username": null,
+            "id": "anonymous_f1"
+        },
+        {
+            "username": null,
             "id": "rvillaotts"
         },
         {
@@ -294,10 +298,6 @@
         {
             "username": null,
             "id": "maphero007"
-        },
-        {
-            "username": null,
-            "id": "rehansilva83"
         }
     ]
 }
