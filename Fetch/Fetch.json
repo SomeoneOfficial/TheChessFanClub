@@ -195,6 +195,11 @@
             "fullName": "Best Ultra League 431st Team Battle",
             "link": "https://lichess.org/tournament/S7qSVjeH",
             "date": 1785412800000
+        },
+        "5HSgym47": {
+            "fullName": "Best Ultra League 432nd Team Battle",
+            "link": "https://lichess.org/tournament/5HSgym47",
+            "date": 1785499200000
         }
     },
     "player_leaderboard": {
@@ -275,12 +280,6 @@
             "fullName": "Best Ultra League 433rd Team Battle",
             "link": "https://lichess.org/tournament/jXLdzBm1",
             "startsAt": 1785585600000
-        },
-        {
-            "id": "5HSgym47",
-            "fullName": "Best Ultra League 432nd Team Battle",
-            "link": "https://lichess.org/tournament/5HSgym47",
-            "startsAt": 1785499200000
         }
     ],
     "recent_joiners": [
