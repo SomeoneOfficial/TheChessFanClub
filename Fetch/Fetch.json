@@ -205,6 +205,11 @@
             "fullName": "L. H. BULLET LVII Team Battle",
             "link": "https://lichess.org/tournament/TgmpBRsx",
             "date": 1785549600000
+        },
+        "jXLdzBm1": {
+            "fullName": "Best Ultra League 433rd Team Battle",
+            "link": "https://lichess.org/tournament/jXLdzBm1",
+            "date": 1785585600000
         }
     },
     "player_leaderboard": {
@@ -280,12 +285,6 @@
             "fullName": "Best Ultra League 434th Team Battle",
             "link": "https://lichess.org/tournament/xNOHNMBG",
             "startsAt": 1785672000000
-        },
-        {
-            "id": "jXLdzBm1",
-            "fullName": "Best Ultra League 433rd Team Battle",
-            "link": "https://lichess.org/tournament/jXLdzBm1",
-            "startsAt": 1785585600000
         }
     ],
     "recent_joiners": [
