@@ -200,6 +200,11 @@
             "fullName": "Best Ultra League 432nd Team Battle",
             "link": "https://lichess.org/tournament/5HSgym47",
             "date": 1785499200000
+        },
+        "TgmpBRsx": {
+            "fullName": "L. H. BULLET LVII Team Battle",
+            "link": "https://lichess.org/tournament/TgmpBRsx",
+            "date": 1785549600000
         }
     },
     "player_leaderboard": {
@@ -218,6 +223,7 @@
         "Adriencanplaychess": 9,
         "arcos_25": 8,
         "Master_of_lions": 8,
+        "emanekalah": 8,
         "X0L55": 6,
         "sacrifice247": 6,
         "ekaterina_vovna": 6,
@@ -280,12 +286,6 @@
             "fullName": "Best Ultra League 433rd Team Battle",
             "link": "https://lichess.org/tournament/jXLdzBm1",
             "startsAt": 1785585600000
-        },
-        {
-            "id": "TgmpBRsx",
-            "fullName": "L. H. BULLET LVII Team Battle",
-            "link": "https://lichess.org/tournament/TgmpBRsx",
-            "startsAt": 1785549600000
         }
     ],
     "recent_joiners": [
