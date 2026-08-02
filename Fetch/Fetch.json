@@ -215,6 +215,11 @@
             "fullName": "Best Ultra League 434th Team Battle",
             "link": "https://lichess.org/tournament/xNOHNMBG",
             "date": 1785672000000
+        },
+        "a3SIAC6B": {
+            "fullName": "15+15-Sonntagnachmittag Team Battle",
+            "link": "https://lichess.org/tournament/a3SIAC6B",
+            "date": 1785677400000
         }
     },
     "player_leaderboard": {
@@ -278,12 +283,6 @@
             "fullName": "Best Ultra League 435th Team Battle",
             "link": "https://lichess.org/tournament/nmthEbGv",
             "startsAt": 1785758400000
-        },
-        {
-            "id": "a3SIAC6B",
-            "fullName": "15+15-Sonntagnachmittag Team Battle",
-            "link": "https://lichess.org/tournament/a3SIAC6B",
-            "startsAt": 1785677400000
         }
     ],
     "recent_joiners": [
