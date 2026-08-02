@@ -210,6 +210,11 @@
             "fullName": "Best Ultra League 433rd Team Battle",
             "link": "https://lichess.org/tournament/jXLdzBm1",
             "date": 1785585600000
+        },
+        "xNOHNMBG": {
+            "fullName": "Best Ultra League 434th Team Battle",
+            "link": "https://lichess.org/tournament/xNOHNMBG",
+            "date": 1785672000000
         }
     },
     "player_leaderboard": {
@@ -279,12 +284,6 @@
             "fullName": "15+15-Sonntagnachmittag Team Battle",
             "link": "https://lichess.org/tournament/a3SIAC6B",
             "startsAt": 1785677400000
-        },
-        {
-            "id": "xNOHNMBG",
-            "fullName": "Best Ultra League 434th Team Battle",
-            "link": "https://lichess.org/tournament/xNOHNMBG",
-            "startsAt": 1785672000000
         }
     ],
     "recent_joiners": [
