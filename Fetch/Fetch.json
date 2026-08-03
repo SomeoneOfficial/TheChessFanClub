@@ -225,6 +225,11 @@
             "fullName": "A very safe name Arena",
             "link": "https://lichess.org/tournament/GvRekxvb",
             "date": 1785705660000
+        },
+        "nmthEbGv": {
+            "fullName": "Best Ultra League 435th Team Battle",
+            "link": "https://lichess.org/tournament/nmthEbGv",
+            "date": 1785758400000
         }
     },
     "player_leaderboard": {
@@ -282,12 +287,6 @@
             "fullName": "Lichess Bullet League 39A Team Battle",
             "link": "https://lichess.org/tournament/IdjlXRRp",
             "startsAt": 1785952800000
-        },
-        {
-            "id": "nmthEbGv",
-            "fullName": "Best Ultra League 435th Team Battle",
-            "link": "https://lichess.org/tournament/nmthEbGv",
-            "startsAt": 1785758400000
         }
     ],
     "recent_joiners": [
