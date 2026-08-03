@@ -220,6 +220,11 @@
             "fullName": "15+15-Sonntagnachmittag Team Battle",
             "link": "https://lichess.org/tournament/a3SIAC6B",
             "date": 1785677400000
+        },
+        "GvRekxvb": {
+            "fullName": "A very safe name Arena",
+            "link": "https://lichess.org/tournament/GvRekxvb",
+            "date": 1785705660000
         }
     },
     "player_leaderboard": {
@@ -283,12 +288,6 @@
             "fullName": "Best Ultra League 435th Team Battle",
             "link": "https://lichess.org/tournament/nmthEbGv",
             "startsAt": 1785758400000
-        },
-        {
-            "id": "GvRekxvb",
-            "fullName": "A very safe name Arena",
-            "link": "https://lichess.org/tournament/GvRekxvb",
-            "startsAt": 1785705660000
         }
     ],
     "recent_joiners": [
