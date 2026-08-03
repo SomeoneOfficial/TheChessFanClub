@@ -287,6 +287,36 @@
             "fullName": "Lichess Bullet League 39A Team Battle",
             "link": "https://lichess.org/tournament/IdjlXRRp",
             "startsAt": 1785952800000
+        },
+        {
+            "id": "Bg73ZfyK",
+            "fullName": "Cheesse Arena Chess960 Arena",
+            "link": "https://lichess.org/tournament/Bg73ZfyK",
+            "startsAt": 1785795620188
+        },
+        {
+            "id": "GwfO8ftd",
+            "fullName": "Cheesse Arena Crazyhouse Arena",
+            "link": "https://lichess.org/tournament/GwfO8ftd",
+            "startsAt": 1785794716738
+        },
+        {
+            "id": "5yTu0Nb6",
+            "fullName": "Cheesse Arena Blitz Arena",
+            "link": "https://lichess.org/tournament/5yTu0Nb6",
+            "startsAt": 1785793663684
+        },
+        {
+            "id": "mPXJDwEu",
+            "fullName": "Cheesse Arena Bullet Arena",
+            "link": "https://lichess.org/tournament/mPXJDwEu",
+            "startsAt": 1785793060218
+        },
+        {
+            "id": "LQSjnSO0",
+            "fullName": "Cheesse Arena UltraBullet Arena",
+            "link": "https://lichess.org/tournament/LQSjnSO0",
+            "startsAt": 1785792456764
         }
     ],
     "recent_joiners": [
