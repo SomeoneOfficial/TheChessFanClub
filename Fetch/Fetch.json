@@ -235,13 +235,19 @@
             "fullName": "Best Ultra League 437th Team Battle",
             "link": "https://lichess.org/tournament/LumarNYj",
             "date": 1785931200000
+        },
+        "IdjlXRRp": {
+            "fullName": "Lichess Bullet League 39A Team Battle",
+            "link": "https://lichess.org/tournament/IdjlXRRp",
+            "date": 1785952800000
         }
     },
     "player_leaderboard": {
-        "Sjisland_The_Zerker": 136,
+        "Sjisland_The_Zerker": 157,
         "chessuae": 121,
+        "AJisland": 86,
         "Pranav_Arunprasad": 81,
-        "AJisland": 75,
+        "Rarelyadraw": 37,
         "Daniel1728": 35,
         "Imnotonmyday": 26,
         "Allez-OM": 22,
@@ -316,12 +322,6 @@
             "fullName": "Best Ultra League 438th Team Battle",
             "link": "https://lichess.org/tournament/v3AC1rhJ",
             "startsAt": 1786017600000
-        },
-        {
-            "id": "IdjlXRRp",
-            "fullName": "Lichess Bullet League 39A Team Battle",
-            "link": "https://lichess.org/tournament/IdjlXRRp",
-            "startsAt": 1785952800000
         }
     ],
     "recent_joiners": [
