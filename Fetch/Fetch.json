@@ -230,6 +230,11 @@
             "fullName": "Best Ultra League 435th Team Battle",
             "link": "https://lichess.org/tournament/nmthEbGv",
             "date": 1785758400000
+        },
+        "LumarNYj": {
+            "fullName": "Best Ultra League 437th Team Battle",
+            "link": "https://lichess.org/tournament/LumarNYj",
+            "date": 1785931200000
         }
     },
     "player_leaderboard": {
@@ -317,12 +322,6 @@
             "fullName": "Lichess Bullet League 39A Team Battle",
             "link": "https://lichess.org/tournament/IdjlXRRp",
             "startsAt": 1785952800000
-        },
-        {
-            "id": "LumarNYj",
-            "fullName": "Best Ultra League 437th Team Battle",
-            "link": "https://lichess.org/tournament/LumarNYj",
-            "startsAt": 1785931200000
         }
     ],
     "recent_joiners": [
