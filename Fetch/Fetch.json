@@ -339,6 +339,10 @@
     "recent_joiners": [
         {
             "username": null,
+            "id": "erickaugustin2013"
+        },
+        {
+            "username": null,
             "id": "rarelyadraw"
         },
         {
@@ -352,10 +356,6 @@
         {
             "username": null,
             "id": "chess6c"
-        },
-        {
-            "username": null,
-            "id": "anonymous_f1"
         }
     ]
 }
