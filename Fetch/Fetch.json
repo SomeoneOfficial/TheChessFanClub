@@ -365,6 +365,18 @@
             "startsAt": 1786190400000
         },
         {
+            "id": "uE16Wsfg",
+            "fullName": "U300 D2 B Team Battle",
+            "link": "https://lichess.org/tournament/uE16Wsfg",
+            "startsAt": 1786161600000
+        },
+        {
+            "id": "IQKXP7qJ",
+            "fullName": "U300 D2 A Team Battle",
+            "link": "https://lichess.org/tournament/IQKXP7qJ",
+            "startsAt": 1786118400000
+        },
+        {
             "id": "vD1CpQ85",
             "fullName": "Best Ultra League 439th Team Battle",
             "link": "https://lichess.org/tournament/vD1CpQ85",
@@ -381,12 +393,6 @@
             "fullName": "U300 Team Battle D1 A Team Battle",
             "link": "https://lichess.org/tournament/sl2gWX7A",
             "startsAt": 1786032000000
-        },
-        {
-            "id": "IQKXP7qJ",
-            "fullName": "U300 D2 A Team Battle",
-            "link": "https://lichess.org/tournament/IQKXP7qJ",
-            "startsAt": 1786029863381
         }
     ],
     "recent_joiners": [
