@@ -323,6 +323,18 @@
             "startsAt": 1786887000000
         },
         {
+            "id": "KSVTpnP9",
+            "fullName": "U300 D7 B Team Battle",
+            "link": "https://lichess.org/tournament/KSVTpnP9",
+            "startsAt": 1786680000000
+        },
+        {
+            "id": "SbrIIx3L",
+            "fullName": "U300 D7 A Team Battle",
+            "link": "https://lichess.org/tournament/SbrIIx3L",
+            "startsAt": 1786636800000
+        },
+        {
             "id": "sVlKSqtF",
             "fullName": "Best Ultra League 442nd Team Battle",
             "link": "https://lichess.org/tournament/sVlKSqtF",
@@ -359,16 +371,22 @@
             "startsAt": 1786104000000
         },
         {
+            "id": "GylHYSJH",
+            "fullName": "U300 D1 B Team Battle",
+            "link": "https://lichess.org/tournament/GylHYSJH",
+            "startsAt": 1786075200000
+        },
+        {
             "id": "sl2gWX7A",
             "fullName": "U300 Team Battle D1 A Team Battle",
             "link": "https://lichess.org/tournament/sl2gWX7A",
             "startsAt": 1786032000000
         },
         {
-            "id": "rf6XtsyG",
-            "fullName": "U300 Team Battle D1A Team Battle",
-            "link": "https://lichess.org/tournament/rf6XtsyG",
-            "startsAt": 1786028760000
+            "id": "IQKXP7qJ",
+            "fullName": "U300 D2 A Team Battle",
+            "link": "https://lichess.org/tournament/IQKXP7qJ",
+            "startsAt": 1786029863381
         }
     ],
     "recent_joiners": [
