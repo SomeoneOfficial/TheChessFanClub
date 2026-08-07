@@ -250,12 +250,17 @@
             "fullName": "Best Ultra League 439th Team Battle",
             "link": "https://lichess.org/tournament/vD1CpQ85",
             "date": 1786104000000
+        },
+        "LG06jiN4": {
+            "fullName": "145th Lichess Mega Team Battle",
+            "link": "https://lichess.org/tournament/LG06jiN4",
+            "date": 1786118400000
         }
     },
     "player_leaderboard": {
         "Sjisland_The_Zerker": 157,
         "chessuae": 121,
-        "AJisland": 86,
+        "AJisland": 88,
         "Pranav_Arunprasad": 81,
         "Rarelyadraw": 37,
         "Daniel1728": 35,
@@ -380,12 +385,6 @@
             "fullName": "U300 D2 B Team Battle",
             "link": "https://lichess.org/tournament/uE16Wsfg",
             "startsAt": 1786161600000
-        },
-        {
-            "id": "LG06jiN4",
-            "fullName": "145th Lichess Mega Team Battle",
-            "link": "https://lichess.org/tournament/LG06jiN4",
-            "startsAt": 1786118400000
         },
         {
             "id": "IQKXP7qJ",
