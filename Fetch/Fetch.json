@@ -245,6 +245,11 @@
             "fullName": "Best Ultra League 438th Team Battle",
             "link": "https://lichess.org/tournament/v3AC1rhJ",
             "date": 1786017600000
+        },
+        "vD1CpQ85": {
+            "fullName": "Best Ultra League 439th Team Battle",
+            "link": "https://lichess.org/tournament/vD1CpQ85",
+            "date": 1786104000000
         }
     },
     "player_leaderboard": {
@@ -381,12 +386,6 @@
             "fullName": "U300 D2 A Team Battle",
             "link": "https://lichess.org/tournament/IQKXP7qJ",
             "startsAt": 1786118400000
-        },
-        {
-            "id": "vD1CpQ85",
-            "fullName": "Best Ultra League 439th Team Battle",
-            "link": "https://lichess.org/tournament/vD1CpQ85",
-            "startsAt": 1786104000000
         },
         {
             "id": "GylHYSJH",
