@@ -255,13 +255,18 @@
             "fullName": "145th Lichess Mega Team Battle",
             "link": "https://lichess.org/tournament/LG06jiN4",
             "date": 1786118400000
+        },
+        "HiXn94zK": {
+            "fullName": "Best Ultra League 440th Team Battle",
+            "link": "https://lichess.org/tournament/HiXn94zK",
+            "date": 1786190400000
         }
     },
     "player_leaderboard": {
         "Sjisland_The_Zerker": 157,
         "chessuae": 121,
         "AJisland": 88,
-        "Pranav_Arunprasad": 81,
+        "Pranav_Arunprasad": 85,
         "Rarelyadraw": 37,
         "Daniel1728": 35,
         "Imnotonmyday": 26,
@@ -373,12 +378,6 @@
             "fullName": "U300 D3 A Team Battle Team Battle",
             "link": "https://lichess.org/tournament/m89VSWkT",
             "startsAt": 1786204800000
-        },
-        {
-            "id": "HiXn94zK",
-            "fullName": "Best Ultra League 440th Team Battle",
-            "link": "https://lichess.org/tournament/HiXn94zK",
-            "startsAt": 1786190400000
         },
         {
             "id": "uE16Wsfg",
