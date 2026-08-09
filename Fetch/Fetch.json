@@ -285,6 +285,11 @@
             "fullName": "2nd MEGA SMALL Team Battle",
             "link": "https://lichess.org/tournament/jGlGk30d",
             "date": 1786298400000
+        },
+        "ve1ZzOWu": {
+            "fullName": "L. H. CL\u00c1SICAS CXXIII Team Battle",
+            "link": "https://lichess.org/tournament/ve1ZzOWu",
+            "date": 1786305600000
         }
     },
     "player_leaderboard": {
@@ -385,12 +390,6 @@
             "fullName": "Best Ultra League 442nd Team Battle",
             "link": "https://lichess.org/tournament/sVlKSqtF",
             "startsAt": 1786363200000
-        },
-        {
-            "id": "ve1ZzOWu",
-            "fullName": "L. H. CL\u00c1SICAS CXXIII Team Battle",
-            "link": "https://lichess.org/tournament/ve1ZzOWu",
-            "startsAt": 1786305600000
         }
     ],
     "recent_joiners": [
