@@ -280,12 +280,17 @@
             "fullName": "15+15-Sonntagnachmittag Team Battle",
             "link": "https://lichess.org/tournament/FHPUUtFK",
             "date": 1786282200000
+        },
+        "jGlGk30d": {
+            "fullName": "2nd MEGA SMALL Team Battle",
+            "link": "https://lichess.org/tournament/jGlGk30d",
+            "date": 1786298400000
         }
     },
     "player_leaderboard": {
-        "Sjisland_The_Zerker": 166,
+        "Sjisland_The_Zerker": 188,
         "chessuae": 121,
-        "Pranav_Arunprasad": 94,
+        "Pranav_Arunprasad": 109,
         "AJisland": 88,
         "Rarelyadraw": 37,
         "Daniel1728": 35,
@@ -386,12 +391,6 @@
             "fullName": "L. H. CL\u00c1SICAS CXXIII Team Battle",
             "link": "https://lichess.org/tournament/ve1ZzOWu",
             "startsAt": 1786305600000
-        },
-        {
-            "id": "jGlGk30d",
-            "fullName": "2nd MEGA SMALL Team Battle",
-            "link": "https://lichess.org/tournament/jGlGk30d",
-            "startsAt": 1786298400000
         }
     ],
     "recent_joiners": [
