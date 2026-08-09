@@ -275,6 +275,11 @@
             "fullName": "Best Ultra League 441st Team Battle",
             "link": "https://lichess.org/tournament/nmHs7RFt",
             "date": 1786276800000
+        },
+        "FHPUUtFK": {
+            "fullName": "15+15-Sonntagnachmittag Team Battle",
+            "link": "https://lichess.org/tournament/FHPUUtFK",
+            "date": 1786282200000
         }
     },
     "player_leaderboard": {
@@ -387,12 +392,6 @@
             "fullName": "2nd MEGA SMALL Team Battle",
             "link": "https://lichess.org/tournament/jGlGk30d",
             "startsAt": 1786298400000
-        },
-        {
-            "id": "FHPUUtFK",
-            "fullName": "15+15-Sonntagnachmittag Team Battle",
-            "link": "https://lichess.org/tournament/FHPUUtFK",
-            "startsAt": 1786282200000
         }
     ],
     "recent_joiners": [
