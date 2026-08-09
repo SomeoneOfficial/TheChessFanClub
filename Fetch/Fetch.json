@@ -260,6 +260,11 @@
             "fullName": "Best Ultra League 440th Team Battle",
             "link": "https://lichess.org/tournament/HiXn94zK",
             "date": 1786190400000
+        },
+        "MMbwKrIL": {
+            "fullName": "A very safe name Arena",
+            "link": "https://lichess.org/tournament/MMbwKrIL",
+            "date": 1786225276380
         }
     },
     "player_leaderboard": {
@@ -372,12 +377,6 @@
             "fullName": "Best Ultra League 441st Team Battle",
             "link": "https://lichess.org/tournament/nmHs7RFt",
             "startsAt": 1786276800000
-        },
-        {
-            "id": "MMbwKrIL",
-            "fullName": "A very safe name Arena",
-            "link": "https://lichess.org/tournament/MMbwKrIL",
-            "startsAt": 1786225276380
         },
         {
             "id": "Xm2tSEzK",
