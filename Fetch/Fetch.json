@@ -270,6 +270,11 @@
             "fullName": "2\u00ba MARAT\u00d3N DE TITANES II Team Battle",
             "link": "https://lichess.org/tournament/Xm2tSEzK",
             "date": 1786204800000
+        },
+        "nmHs7RFt": {
+            "fullName": "Best Ultra League 441st Team Battle",
+            "link": "https://lichess.org/tournament/nmHs7RFt",
+            "date": 1786276800000
         }
     },
     "player_leaderboard": {
@@ -376,12 +381,6 @@
             "fullName": "15+15-Sonntagnachmittag Team Battle",
             "link": "https://lichess.org/tournament/FHPUUtFK",
             "startsAt": 1786282200000
-        },
-        {
-            "id": "nmHs7RFt",
-            "fullName": "Best Ultra League 441st Team Battle",
-            "link": "https://lichess.org/tournament/nmHs7RFt",
-            "startsAt": 1786276800000
         }
     ],
     "recent_joiners": [
