@@ -265,13 +265,18 @@
             "fullName": "A very safe name Arena",
             "link": "https://lichess.org/tournament/MMbwKrIL",
             "date": 1786225276380
+        },
+        "Xm2tSEzK": {
+            "fullName": "2\u00ba MARAT\u00d3N DE TITANES II Team Battle",
+            "link": "https://lichess.org/tournament/Xm2tSEzK",
+            "date": 1786204800000
         }
     },
     "player_leaderboard": {
-        "Sjisland_The_Zerker": 157,
+        "Sjisland_The_Zerker": 166,
         "chessuae": 121,
+        "Pranav_Arunprasad": 94,
         "AJisland": 88,
-        "Pranav_Arunprasad": 85,
         "Rarelyadraw": 37,
         "Daniel1728": 35,
         "Imnotonmyday": 26,
@@ -377,18 +382,6 @@
             "fullName": "Best Ultra League 441st Team Battle",
             "link": "https://lichess.org/tournament/nmHs7RFt",
             "startsAt": 1786276800000
-        },
-        {
-            "id": "Xm2tSEzK",
-            "fullName": "2\u00ba MARAT\u00d3N DE TITANES II Team Battle",
-            "link": "https://lichess.org/tournament/Xm2tSEzK",
-            "startsAt": 1786204800000
-        },
-        {
-            "id": "m89VSWkT",
-            "fullName": "U300 D3 A Team Battle Team Battle",
-            "link": "https://lichess.org/tournament/m89VSWkT",
-            "startsAt": 1786204800000
         }
     ],
     "recent_joiners": [
