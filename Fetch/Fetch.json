@@ -290,12 +290,17 @@
             "fullName": "L. H. CL\u00c1SICAS CXXIII Team Battle",
             "link": "https://lichess.org/tournament/ve1ZzOWu",
             "date": 1786305600000
+        },
+        "sVlKSqtF": {
+            "fullName": "Best Ultra League 442nd Team Battle",
+            "link": "https://lichess.org/tournament/sVlKSqtF",
+            "date": 1786363200000
         }
     },
     "player_leaderboard": {
         "Sjisland_The_Zerker": 188,
+        "Pranav_Arunprasad": 151,
         "chessuae": 121,
-        "Pranav_Arunprasad": 109,
         "AJisland": 88,
         "Rarelyadraw": 37,
         "Daniel1728": 35,
@@ -384,12 +389,6 @@
             "fullName": "3rd ChessLiga Team Battle",
             "link": "https://lichess.org/tournament/MMF1qVZz",
             "startsAt": 1786374000000
-        },
-        {
-            "id": "sVlKSqtF",
-            "fullName": "Best Ultra League 442nd Team Battle",
-            "link": "https://lichess.org/tournament/sVlKSqtF",
-            "startsAt": 1786363200000
         }
     ],
     "recent_joiners": [
