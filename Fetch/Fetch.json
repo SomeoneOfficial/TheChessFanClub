@@ -295,6 +295,11 @@
             "fullName": "Best Ultra League 442nd Team Battle",
             "link": "https://lichess.org/tournament/sVlKSqtF",
             "date": 1786363200000
+        },
+        "MMF1qVZz": {
+            "fullName": "3rd ChessLiga Team Battle",
+            "link": "https://lichess.org/tournament/MMF1qVZz",
+            "date": 1786374000000
         }
     },
     "player_leaderboard": {
@@ -383,12 +388,6 @@
             "fullName": "U300 D7 A Team Battle",
             "link": "https://lichess.org/tournament/SbrIIx3L",
             "startsAt": 1786636800000
-        },
-        {
-            "id": "MMF1qVZz",
-            "fullName": "3rd ChessLiga Team Battle",
-            "link": "https://lichess.org/tournament/MMF1qVZz",
-            "startsAt": 1786374000000
         }
     ],
     "recent_joiners": [
