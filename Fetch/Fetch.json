@@ -394,15 +394,13 @@
             "fullName": "U300 D7 A Team Battle",
             "link": "https://lichess.org/tournament/SbrIIx3L",
             "startsAt": 1786636800000
-        },
-        {
-            "id": "ERMMFifA",
-            "fullName": "3th 99 USD CHESS MOOD PRIZE Arena",
-            "link": "https://lichess.org/tournament/ERMMFifA",
-            "startsAt": 1786568400000
         }
     ],
     "recent_joiners": [
+        {
+            "username": null,
+            "id": "sudo123"
+        },
         {
             "username": null,
             "id": "kavyasrichand"
@@ -418,10 +416,6 @@
         {
             "username": null,
             "id": "rajul_s"
-        },
-        {
-            "username": null,
-            "id": "omarguedda5"
         }
     ]
 }
