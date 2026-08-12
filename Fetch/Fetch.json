@@ -399,6 +399,10 @@
     "recent_joiners": [
         {
             "username": null,
+            "id": "rabbit_on_theviolin"
+        },
+        {
+            "username": null,
             "id": "aprilshowersxo"
         },
         {
@@ -412,10 +416,6 @@
         {
             "username": null,
             "id": "erickaugustin2013"
-        },
-        {
-            "username": null,
-            "id": "emanekalah"
         }
     ]
 }
