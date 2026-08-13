@@ -405,6 +405,10 @@
     "recent_joiners": [
         {
             "username": null,
+            "id": "gabyossuna"
+        },
+        {
+            "username": null,
             "id": "tnelli13"
         },
         {
@@ -418,10 +422,6 @@
         {
             "username": null,
             "id": "sudo123"
-        },
-        {
-            "username": null,
-            "id": "kavyasrichand"
         }
     ]
 }
