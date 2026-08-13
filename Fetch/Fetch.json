@@ -411,6 +411,10 @@
     "recent_joiners": [
         {
             "username": null,
+            "id": "tnelli13"
+        },
+        {
+            "username": null,
             "id": "adriencanplaychess"
         },
         {
@@ -424,10 +428,6 @@
         {
             "username": null,
             "id": "kavyasrichand"
-        },
-        {
-            "username": null,
-            "id": "rabbit_on_theviolin"
         }
     ]
 }
