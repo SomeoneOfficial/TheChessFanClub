@@ -300,11 +300,16 @@
             "fullName": "3rd ChessLiga Team Battle",
             "link": "https://lichess.org/tournament/MMF1qVZz",
             "date": 1786374000000
+        },
+        "cDnvtL7q": {
+            "fullName": "Best Ultra League 446th Team Battle",
+            "link": "https://lichess.org/tournament/cDnvtL7q",
+            "date": 1786708800000
         }
     },
     "player_leaderboard": {
         "Sjisland_The_Zerker": 188,
-        "Pranav_Arunprasad": 151,
+        "Pranav_Arunprasad": 156,
         "chessuae": 121,
         "AJisland": 88,
         "Rarelyadraw": 37,
@@ -382,12 +387,6 @@
             "fullName": "15+15-Sonntagnachmittag Team Battle",
             "link": "https://lichess.org/tournament/jWxMbQtJ",
             "startsAt": 1786887000000
-        },
-        {
-            "id": "cDnvtL7q",
-            "fullName": "Best Ultra League 446th Team Battle",
-            "link": "https://lichess.org/tournament/cDnvtL7q",
-            "startsAt": 1786708800000
         },
         {
             "id": "KSVTpnP9",
