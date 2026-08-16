@@ -305,6 +305,11 @@
             "fullName": "Best Ultra League 446th Team Battle",
             "link": "https://lichess.org/tournament/cDnvtL7q",
             "date": 1786708800000
+        },
+        "jWxMbQtJ": {
+            "fullName": "15+15-Sonntagnachmittag Team Battle",
+            "link": "https://lichess.org/tournament/jWxMbQtJ",
+            "date": 1786887000000
         }
     },
     "player_leaderboard": {
@@ -343,7 +348,8 @@
         "Trapsen": 0,
         "VPonsonn": 0,
         "raviteja1287": 0,
-        "Inampudi": 0
+        "Inampudi": 0,
+        "GabyOssuna": 0
     },
     "upcoming_tournaments": [
         {
@@ -381,12 +387,6 @@
             "fullName": "ChessMood 20-20 Grand Prix 2026",
             "link": "https://lichess.org/tournament/CMQ26Aug",
             "startsAt": 1787256000000
-        },
-        {
-            "id": "jWxMbQtJ",
-            "fullName": "15+15-Sonntagnachmittag Team Battle",
-            "link": "https://lichess.org/tournament/jWxMbQtJ",
-            "startsAt": 1786887000000
         }
     ],
     "recent_joiners": [
