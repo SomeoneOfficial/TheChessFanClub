@@ -388,6 +388,12 @@
             "startsAt": 1787572800000
         },
         {
+            "id": "vj7UNLjg",
+            "fullName": "584th ULTRAbullet Team Battle",
+            "link": "https://lichess.org/tournament/vj7UNLjg",
+            "startsAt": 1787493600000
+        },
+        {
             "id": "SpUUkfyG",
             "fullName": "15+15-Sonntagnachmittag Team Battle",
             "link": "https://lichess.org/tournament/SpUUkfyG",
@@ -398,6 +404,12 @@
             "fullName": "Best Ultra League 455th Team Battle",
             "link": "https://lichess.org/tournament/kepY5g7s",
             "startsAt": 1787486400000
+        },
+        {
+            "id": "d0FXOzcj",
+            "fullName": "583rd ULTRAbullet Team Battle",
+            "link": "https://lichess.org/tournament/d0FXOzcj",
+            "startsAt": 1787320800000
         },
         {
             "id": "lQwkoHPv",
@@ -418,16 +430,34 @@
             "startsAt": 1787227200000
         },
         {
+            "id": "s8ufm3jQ",
+            "fullName": "581st ULTRAbullet Team Battle",
+            "link": "https://lichess.org/tournament/s8ufm3jQ",
+            "startsAt": 1787148000000
+        },
+        {
             "id": "vFKiwOlo",
             "fullName": "Best Ultra League 451st Team Battle",
             "link": "https://lichess.org/tournament/vFKiwOlo",
             "startsAt": 1787140800000
         },
         {
+            "id": "xll0qNyh",
+            "fullName": "580th ULTRAbullet Team Battle",
+            "link": "https://lichess.org/tournament/xll0qNyh",
+            "startsAt": 1787061600000
+        },
+        {
             "id": "xqwHlTx7",
             "fullName": "Best Ultra League 450th Team Battle",
             "link": "https://lichess.org/tournament/xqwHlTx7",
             "startsAt": 1787054400000
+        },
+        {
+            "id": "IDYSOncG",
+            "fullName": "579th ULTRAbullet Team Battle",
+            "link": "https://lichess.org/tournament/IDYSOncG",
+            "startsAt": 1786975200000
         }
     ],
     "recent_joiners": [
