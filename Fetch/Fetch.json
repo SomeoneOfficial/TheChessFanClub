@@ -315,10 +315,15 @@
             "fullName": "Best Ultra League 449th Team Battle",
             "link": "https://lichess.org/tournament/f34AShfz",
             "date": 1786968000000
+        },
+        "IDYSOncG": {
+            "fullName": "579th ULTRAbullet Team Battle",
+            "link": "https://lichess.org/tournament/IDYSOncG",
+            "date": 1786975200000
         }
     },
     "player_leaderboard": {
-        "Sjisland_The_Zerker": 188,
+        "Sjisland_The_Zerker": 206,
         "Pranav_Arunprasad": 156,
         "chessuae": 121,
         "AJisland": 88,
@@ -452,12 +457,6 @@
             "fullName": "Best Ultra League 450th Team Battle",
             "link": "https://lichess.org/tournament/xqwHlTx7",
             "startsAt": 1787054400000
-        },
-        {
-            "id": "IDYSOncG",
-            "fullName": "579th ULTRAbullet Team Battle",
-            "link": "https://lichess.org/tournament/IDYSOncG",
-            "startsAt": 1786975200000
         }
     ],
     "recent_joiners": [
