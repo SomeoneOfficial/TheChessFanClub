@@ -504,6 +504,10 @@
     "recent_joiners": [
         {
             "username": null,
+            "id": "william_lei"
+        },
+        {
+            "username": null,
             "id": "aryannvind"
         },
         {
@@ -517,10 +521,6 @@
         {
             "username": null,
             "id": "minoponentmovs2"
-        },
-        {
-            "username": null,
-            "id": "purposeless2014"
         }
     ]
 }
