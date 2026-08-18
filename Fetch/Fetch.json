@@ -320,6 +320,11 @@
             "fullName": "579th ULTRAbullet Team Battle",
             "link": "https://lichess.org/tournament/IDYSOncG",
             "date": 1786975200000
+        },
+        "xqwHlTx7": {
+            "fullName": "Best Ultra League 450th Team Battle",
+            "link": "https://lichess.org/tournament/xqwHlTx7",
+            "date": 1787054400000
         }
     },
     "player_leaderboard": {
@@ -333,9 +338,9 @@
         "Allez-OM": 22,
         "playerchess2019": 18,
         "JuanAgamaM": 14,
+        "SJisland": 13,
         "Khabibnigarunoff": 11,
         "KKisland": 11,
-        "SJisland": 10,
         "Adriencanplaychess": 9,
         "arcos_25": 8,
         "Master_of_lions": 8,
@@ -493,12 +498,6 @@
             "fullName": "580th ULTRAbullet Team Battle",
             "link": "https://lichess.org/tournament/xll0qNyh",
             "startsAt": 1787061600000
-        },
-        {
-            "id": "xqwHlTx7",
-            "fullName": "Best Ultra League 450th Team Battle",
-            "link": "https://lichess.org/tournament/xqwHlTx7",
-            "startsAt": 1787054400000
         }
     ],
     "recent_joiners": [
