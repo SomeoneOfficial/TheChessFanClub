@@ -325,10 +325,15 @@
             "fullName": "Best Ultra League 450th Team Battle",
             "link": "https://lichess.org/tournament/xqwHlTx7",
             "date": 1787054400000
+        },
+        "xll0qNyh": {
+            "fullName": "580th ULTRAbullet Team Battle",
+            "link": "https://lichess.org/tournament/xll0qNyh",
+            "date": 1787061600000
         }
     },
     "player_leaderboard": {
-        "Sjisland_The_Zerker": 206,
+        "Sjisland_The_Zerker": 253,
         "Pranav_Arunprasad": 156,
         "chessuae": 121,
         "AJisland": 88,
@@ -492,18 +497,12 @@
             "fullName": "LIGA TITANES TEMPORADA II R.2 Team Battle",
             "link": "https://lichess.org/tournament/PFFYXKhE",
             "startsAt": 1787104800000
-        },
-        {
-            "id": "xll0qNyh",
-            "fullName": "580th ULTRAbullet Team Battle",
-            "link": "https://lichess.org/tournament/xll0qNyh",
-            "startsAt": 1787061600000
         }
     ],
     "recent_joiners": [
         {
             "username": null,
-            "id": "mehrsamr95"
+            "id": "anshr_ict"
         },
         {
             "username": null,
