@@ -345,11 +345,16 @@
             "fullName": "581st ULTRAbullet Team Battle",
             "link": "https://lichess.org/tournament/s8ufm3jQ",
             "date": 1787148000000
+        },
+        "w3FwWQIB": {
+            "fullName": "Lichess Bullet League 41B Team Battle",
+            "link": "https://lichess.org/tournament/w3FwWQIB",
+            "date": 1787162400000
         }
     },
     "player_leaderboard": {
         "Sjisland_The_Zerker": 253,
-        "Pranav_Arunprasad": 156,
+        "Pranav_Arunprasad": 198,
         "chessuae": 121,
         "AJisland": 88,
         "Rarelyadraw": 37,
@@ -494,12 +499,6 @@
             "fullName": "LIGA TITANES TEMPORADAII R.3 Team Battle",
             "link": "https://lichess.org/tournament/N5sVSVby",
             "startsAt": 1787191200000
-        },
-        {
-            "id": "w3FwWQIB",
-            "fullName": "Lichess Bullet League 41B Team Battle",
-            "link": "https://lichess.org/tournament/w3FwWQIB",
-            "startsAt": 1787162400000
         }
     ],
     "recent_joiners": [
