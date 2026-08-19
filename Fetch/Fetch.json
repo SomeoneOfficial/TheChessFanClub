@@ -340,6 +340,11 @@
             "fullName": "Best Ultra League 451st Team Battle",
             "link": "https://lichess.org/tournament/vFKiwOlo",
             "date": 1787140800000
+        },
+        "s8ufm3jQ": {
+            "fullName": "581st ULTRAbullet Team Battle",
+            "link": "https://lichess.org/tournament/s8ufm3jQ",
+            "date": 1787148000000
         }
     },
     "player_leaderboard": {
@@ -489,12 +494,6 @@
             "fullName": "LIGA TITANES TEMPORADAII R.3 Team Battle",
             "link": "https://lichess.org/tournament/N5sVSVby",
             "startsAt": 1787191200000
-        },
-        {
-            "id": "s8ufm3jQ",
-            "fullName": "581st ULTRAbullet Team Battle",
-            "link": "https://lichess.org/tournament/s8ufm3jQ",
-            "startsAt": 1787148000000
         }
     ],
     "recent_joiners": [
