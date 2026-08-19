@@ -330,6 +330,11 @@
             "fullName": "580th ULTRAbullet Team Battle",
             "link": "https://lichess.org/tournament/xll0qNyh",
             "date": 1787061600000
+        },
+        "PFFYXKhE": {
+            "fullName": "LIGA TITANES TEMPORADA II R.2 Team Battle",
+            "link": "https://lichess.org/tournament/PFFYXKhE",
+            "date": 1787104800000
         }
     },
     "player_leaderboard": {
@@ -491,12 +496,6 @@
             "fullName": "Best Ultra League 451st Team Battle",
             "link": "https://lichess.org/tournament/vFKiwOlo",
             "startsAt": 1787140800000
-        },
-        {
-            "id": "PFFYXKhE",
-            "fullName": "LIGA TITANES TEMPORADA II R.2 Team Battle",
-            "link": "https://lichess.org/tournament/PFFYXKhE",
-            "startsAt": 1787104800000
         }
     ],
     "recent_joiners": [
