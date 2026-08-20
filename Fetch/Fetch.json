@@ -503,6 +503,10 @@
     "recent_joiners": [
         {
             "username": null,
+            "id": "scenicsen"
+        },
+        {
+            "username": null,
             "id": "rm-gavilanesedwin"
         },
         {
@@ -516,10 +520,6 @@
         {
             "username": null,
             "id": "cenzr"
-        },
-        {
-            "username": null,
-            "id": "tu_elo_sera_mio1"
         }
     ]
 }
