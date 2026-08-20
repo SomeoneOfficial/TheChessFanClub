@@ -504,6 +504,10 @@
     "recent_joiners": [
         {
             "username": null,
+            "id": "busy_checkmating"
+        },
+        {
+            "username": null,
             "id": "arya3_s"
         },
         {
@@ -517,10 +521,6 @@
         {
             "username": null,
             "id": "luciano1110"
-        },
-        {
-            "username": null,
-            "id": "phoenixthebest"
         }
     ]
 }
