@@ -350,6 +350,11 @@
             "fullName": "Lichess Bullet League 41B Team Battle",
             "link": "https://lichess.org/tournament/w3FwWQIB",
             "date": 1787162400000
+        },
+        "N5sVSVby": {
+            "fullName": "LIGA TITANES TEMPORADAII R.3 Team Battle",
+            "link": "https://lichess.org/tournament/N5sVSVby",
+            "date": 1787191200000
         }
     },
     "player_leaderboard": {
@@ -493,12 +498,6 @@
             "fullName": "Best Ultra League 452nd Team Battle",
             "link": "https://lichess.org/tournament/a8IEkPRA",
             "startsAt": 1787227200000
-        },
-        {
-            "id": "N5sVSVby",
-            "fullName": "LIGA TITANES TEMPORADAII R.3 Team Battle",
-            "link": "https://lichess.org/tournament/N5sVSVby",
-            "startsAt": 1787191200000
         }
     ],
     "recent_joiners": [
