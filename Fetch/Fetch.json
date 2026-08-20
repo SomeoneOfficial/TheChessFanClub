@@ -360,26 +360,36 @@
             "fullName": "Best Ultra League 452nd Team Battle",
             "link": "https://lichess.org/tournament/a8IEkPRA",
             "date": 1787227200000
+        },
+        "CMQ26Aug": {
+            "fullName": "ChessMood 20-20 Grand Prix 2026",
+            "link": "https://lichess.org/tournament/CMQ26Aug",
+            "date": 1787256000000
         }
     },
     "player_leaderboard": {
         "Sjisland_The_Zerker": 253,
         "Pranav_Arunprasad": 198,
         "chessuae": 121,
-        "AJisland": 88,
+        "AJisland": 110,
+        "Allez-OM": 41,
+        "SJisland": 39,
         "Rarelyadraw": 37,
         "Daniel1728": 35,
+        "TB_M4": 27,
+        "RM-GAVILANESEDWIN": 27,
         "Imnotonmyday": 26,
-        "Allez-OM": 22,
+        "Mkhlff93": 20,
         "playerchess2019": 18,
+        "Tu_Elo_sera_mio1": 16,
         "JuanAgamaM": 14,
-        "SJisland": 13,
         "Khabibnigarunoff": 11,
         "KKisland": 11,
         "Adriencanplaychess": 9,
         "arcos_25": 8,
         "Master_of_lions": 8,
         "emanekalah": 8,
+        "kibitz_zone": 8,
         "X0L55": 6,
         "sacrifice247": 6,
         "ekaterina_vovna": 6,
@@ -387,10 +397,12 @@
         "GambitGuru003": 4,
         "scarletov": 4,
         "CapaBike": 4,
+        "G_MKol": 4,
         "ShaaruAbi2008": 3,
         "LionelMessiFCB": 2,
         "CaroKannMaestro": 2,
         "Multikasking": 2,
+        "AKOVOHOUANDE": 2,
         "Toussaint76": 0,
         "Ransjohnyy": 0,
         "dodyeng": 0,
@@ -400,7 +412,18 @@
         "raviteja1287": 0,
         "Inampudi": 0,
         "GabyOssuna": 0,
-        "thong_gambit": 0
+        "thong_gambit": 0,
+        "a262262": 0,
+        "feridbaku2014": 0,
+        "chess6c": 0,
+        "luciano1110": 0,
+        "SarapciRemzi": 0,
+        "ivanwrest": 0,
+        "scenicsen": 0,
+        "iloveoil6": 0,
+        "Busy_Checkmating": 0,
+        "Willyamf999": 0,
+        "ARYA3_S": 0
     },
     "upcoming_tournaments": [
         {
@@ -492,12 +515,6 @@
             "fullName": "Best Ultra League 453rd Team Battle",
             "link": "https://lichess.org/tournament/lQwkoHPv",
             "startsAt": 1787313600000
-        },
-        {
-            "id": "CMQ26Aug",
-            "fullName": "ChessMood 20-20 Grand Prix 2026",
-            "link": "https://lichess.org/tournament/CMQ26Aug",
-            "startsAt": 1787256000000
         }
     ],
     "recent_joiners": [
