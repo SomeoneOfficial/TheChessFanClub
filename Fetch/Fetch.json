@@ -375,6 +375,11 @@
             "fullName": "583rd ULTRAbullet Team Battle",
             "link": "https://lichess.org/tournament/d0FXOzcj",
             "date": 1787320800000
+        },
+        "7S4dzDLH": {
+            "fullName": "146th Lichess Mega Team Battle",
+            "link": "https://lichess.org/tournament/7S4dzDLH",
+            "date": 1787328000000
         }
     },
     "player_leaderboard": {
@@ -525,12 +530,6 @@
             "fullName": "Best Ultra League 454th Team Battle",
             "link": "https://lichess.org/tournament/fLBHedmI",
             "startsAt": 1787400000000
-        },
-        {
-            "id": "7S4dzDLH",
-            "fullName": "146th Lichess Mega Team Battle",
-            "link": "https://lichess.org/tournament/7S4dzDLH",
-            "startsAt": 1787328000000
         }
     ],
     "recent_joiners": [
