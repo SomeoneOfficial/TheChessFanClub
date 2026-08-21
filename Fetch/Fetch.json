@@ -370,6 +370,11 @@
             "fullName": "Best Ultra League 453rd Team Battle",
             "link": "https://lichess.org/tournament/lQwkoHPv",
             "date": 1787313600000
+        },
+        "d0FXOzcj": {
+            "fullName": "583rd ULTRAbullet Team Battle",
+            "link": "https://lichess.org/tournament/d0FXOzcj",
+            "date": 1787320800000
         }
     },
     "player_leaderboard": {
@@ -514,12 +519,6 @@
             "fullName": "2\u00ba MARAT\u00d3N DE TITANES IV Team Battle",
             "link": "https://lichess.org/tournament/vWFh3gA7",
             "startsAt": 1787414400000
-        },
-        {
-            "id": "d0FXOzcj",
-            "fullName": "583rd ULTRAbullet Team Battle",
-            "link": "https://lichess.org/tournament/d0FXOzcj",
-            "startsAt": 1787320800000
         }
     ],
     "recent_joiners": [
