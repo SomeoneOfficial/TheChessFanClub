@@ -380,11 +380,16 @@
             "fullName": "146th Lichess Mega Team Battle",
             "link": "https://lichess.org/tournament/7S4dzDLH",
             "date": 1787328000000
+        },
+        "0lCAl3d4": {
+            "fullName": "L. H. BULLET LX Team Battle",
+            "link": "https://lichess.org/tournament/0lCAl3d4",
+            "date": 1787364000000
         }
     },
     "player_leaderboard": {
         "Sjisland_The_Zerker": 253,
-        "Pranav_Arunprasad": 198,
+        "Pranav_Arunprasad": 206,
         "chessuae": 121,
         "AJisland": 110,
         "Allez-OM": 41,
@@ -530,12 +535,6 @@
             "fullName": "Best Ultra League 454th Team Battle",
             "link": "https://lichess.org/tournament/fLBHedmI",
             "startsAt": 1787400000000
-        },
-        {
-            "id": "0lCAl3d4",
-            "fullName": "L. H. BULLET LX Team Battle",
-            "link": "https://lichess.org/tournament/0lCAl3d4",
-            "startsAt": 1787364000000
         }
     ],
     "recent_joiners": [
