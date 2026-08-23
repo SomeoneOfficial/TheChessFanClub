@@ -395,6 +395,11 @@
             "fullName": "2\u00ba MARAT\u00d3N DE TITANES IV Team Battle",
             "link": "https://lichess.org/tournament/vWFh3gA7",
             "date": 1787414400000
+        },
+        "kepY5g7s": {
+            "fullName": "Best Ultra League 455th Team Battle",
+            "link": "https://lichess.org/tournament/kepY5g7s",
+            "date": 1787486400000
         }
     },
     "player_leaderboard": {
@@ -528,12 +533,6 @@
             "fullName": "15+15-Sonntagnachmittag Team Battle",
             "link": "https://lichess.org/tournament/SpUUkfyG",
             "startsAt": 1787491800000
-        },
-        {
-            "id": "kepY5g7s",
-            "fullName": "Best Ultra League 455th Team Battle",
-            "link": "https://lichess.org/tournament/kepY5g7s",
-            "startsAt": 1787486400000
         }
     ],
     "recent_joiners": [
