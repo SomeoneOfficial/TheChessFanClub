@@ -400,6 +400,11 @@
             "fullName": "Best Ultra League 455th Team Battle",
             "link": "https://lichess.org/tournament/kepY5g7s",
             "date": 1787486400000
+        },
+        "vj7UNLjg": {
+            "fullName": "584th ULTRAbullet Team Battle",
+            "link": "https://lichess.org/tournament/vj7UNLjg",
+            "date": 1787493600000
         }
     },
     "player_leaderboard": {
@@ -521,12 +526,6 @@
             "fullName": "Best Ultra League 456th Team Battle",
             "link": "https://lichess.org/tournament/LFDHV0h1",
             "startsAt": 1787572800000
-        },
-        {
-            "id": "vj7UNLjg",
-            "fullName": "584th ULTRAbullet Team Battle",
-            "link": "https://lichess.org/tournament/vj7UNLjg",
-            "startsAt": 1787493600000
         },
         {
             "id": "SpUUkfyG",
