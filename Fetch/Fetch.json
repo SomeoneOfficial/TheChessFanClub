@@ -405,6 +405,11 @@
             "fullName": "584th ULTRAbullet Team Battle",
             "link": "https://lichess.org/tournament/vj7UNLjg",
             "date": 1787493600000
+        },
+        "SpUUkfyG": {
+            "fullName": "15+15-Sonntagnachmittag Team Battle",
+            "link": "https://lichess.org/tournament/SpUUkfyG",
+            "date": 1787491800000
         }
     },
     "player_leaderboard": {
@@ -526,12 +531,6 @@
             "fullName": "Best Ultra League 456th Team Battle",
             "link": "https://lichess.org/tournament/LFDHV0h1",
             "startsAt": 1787572800000
-        },
-        {
-            "id": "SpUUkfyG",
-            "fullName": "15+15-Sonntagnachmittag Team Battle",
-            "link": "https://lichess.org/tournament/SpUUkfyG",
-            "startsAt": 1787491800000
         }
     ],
     "recent_joiners": [
