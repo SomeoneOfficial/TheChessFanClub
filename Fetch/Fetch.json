@@ -390,6 +390,11 @@
             "fullName": "Best Ultra League 454th Team Battle",
             "link": "https://lichess.org/tournament/fLBHedmI",
             "date": 1787400000000
+        },
+        "vWFh3gA7": {
+            "fullName": "2\u00ba MARAT\u00d3N DE TITANES IV Team Battle",
+            "link": "https://lichess.org/tournament/vWFh3gA7",
+            "date": 1787414400000
         }
     },
     "player_leaderboard": {
@@ -401,12 +406,12 @@
         "SJisland": 39,
         "Rarelyadraw": 37,
         "Daniel1728": 35,
+        "Tu_Elo_sera_mio1": 31,
         "TB_M4": 27,
         "RM-GAVILANESEDWIN": 27,
         "Imnotonmyday": 26,
         "Mkhlff93": 20,
         "playerchess2019": 18,
-        "Tu_Elo_sera_mio1": 16,
         "JuanAgamaM": 14,
         "Khabibnigarunoff": 11,
         "KKisland": 11,
@@ -448,7 +453,8 @@
         "iloveoil6": 0,
         "Busy_Checkmating": 0,
         "Willyamf999": 0,
-        "ARYA3_S": 0
+        "ARYA3_S": 0,
+        "chanu16": 0
     },
     "upcoming_tournaments": [
         {
@@ -528,12 +534,6 @@
             "fullName": "Best Ultra League 455th Team Battle",
             "link": "https://lichess.org/tournament/kepY5g7s",
             "startsAt": 1787486400000
-        },
-        {
-            "id": "vWFh3gA7",
-            "fullName": "2\u00ba MARAT\u00d3N DE TITANES IV Team Battle",
-            "link": "https://lichess.org/tournament/vWFh3gA7",
-            "startsAt": 1787414400000
         }
     ],
     "recent_joiners": [
