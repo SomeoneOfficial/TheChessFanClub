@@ -420,6 +420,11 @@
             "fullName": "325\u00ba COPA LIBERTADORES Team Battle",
             "link": "https://lichess.org/tournament/xbdkKLZp",
             "date": 1787616000000
+        },
+        "2abvq2xe": {
+            "fullName": "586th ULTRAbullet Team Battle",
+            "link": "https://lichess.org/tournament/2abvq2xe",
+            "date": 1787666400000
         }
     },
     "player_leaderboard": {
@@ -559,12 +564,6 @@
             "fullName": "LIGA TITANES TEMPORADA II R.3 Team Battle",
             "link": "https://lichess.org/tournament/btbUOKJx",
             "startsAt": 1787709600000
-        },
-        {
-            "id": "2abvq2xe",
-            "fullName": "586th ULTRAbullet Team Battle",
-            "link": "https://lichess.org/tournament/2abvq2xe",
-            "startsAt": 1787666400000
         }
     ],
     "recent_joiners": [
