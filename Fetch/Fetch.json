@@ -570,6 +570,10 @@
     "recent_joiners": [
         {
             "username": null,
+            "id": "dark_on_aura"
+        },
+        {
+            "username": null,
             "id": "egorchess017"
         },
         {
@@ -583,10 +587,6 @@
         {
             "username": null,
             "id": "kibitz_zone"
-        },
-        {
-            "username": null,
-            "id": "cenzr"
         }
     ]
 }
