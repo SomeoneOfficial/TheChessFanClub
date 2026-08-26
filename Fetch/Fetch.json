@@ -440,6 +440,11 @@
             "fullName": "587th ULTRAbullet Team Battle",
             "link": "https://lichess.org/tournament/LihQlTK9",
             "date": 1787752800000
+        },
+        "RoLLa1eG": {
+            "fullName": "Lichess Bullet League 42A Team Battle",
+            "link": "https://lichess.org/tournament/RoLLa1eG",
+            "date": 1787767200000
         }
     },
     "player_leaderboard": {
@@ -447,6 +452,7 @@
         "Pranav_Arunprasad": 206,
         "chessuae": 121,
         "AJisland": 110,
+        "JuanAgamaM": 60,
         "Allez-OM": 41,
         "SJisland": 39,
         "Rarelyadraw": 37,
@@ -457,7 +463,6 @@
         "Imnotonmyday": 26,
         "Mkhlff93": 20,
         "playerchess2019": 18,
-        "JuanAgamaM": 14,
         "Khabibnigarunoff": 11,
         "KKisland": 11,
         "Adriencanplaychess": 9,
@@ -591,12 +596,6 @@
             "fullName": "LIGA TITANES TEMPORADAII R.4 Team Battle",
             "link": "https://lichess.org/tournament/ye4Tukz6",
             "startsAt": 1787796000000
-        },
-        {
-            "id": "RoLLa1eG",
-            "fullName": "Lichess Bullet League 42A Team Battle",
-            "link": "https://lichess.org/tournament/RoLLa1eG",
-            "startsAt": 1787767200000
         }
     ],
     "recent_joiners": [
