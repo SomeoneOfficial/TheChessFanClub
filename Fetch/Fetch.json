@@ -445,6 +445,11 @@
             "fullName": "Lichess Bullet League 42A Team Battle",
             "link": "https://lichess.org/tournament/RoLLa1eG",
             "date": 1787767200000
+        },
+        "a8hc3F4u": {
+            "fullName": "chess fan Arena",
+            "link": "https://lichess.org/tournament/a8hc3F4u",
+            "date": 1787774389461
         }
     },
     "player_leaderboard": {
@@ -596,12 +601,6 @@
             "fullName": "LIGA TITANES TEMPORADAII R.4 Team Battle",
             "link": "https://lichess.org/tournament/ye4Tukz6",
             "startsAt": 1787796000000
-        },
-        {
-            "id": "a8hc3F4u",
-            "fullName": "chess fan Arena",
-            "link": "https://lichess.org/tournament/a8hc3F4u",
-            "startsAt": 1787774389461
         }
     ],
     "recent_joiners": [
