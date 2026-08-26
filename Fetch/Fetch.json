@@ -602,6 +602,10 @@
     "recent_joiners": [
         {
             "username": null,
+            "id": "penguinl3"
+        },
+        {
+            "username": null,
             "id": "nickisbeast1110"
         },
         {
@@ -615,10 +619,6 @@
         {
             "username": null,
             "id": "scenicsen"
-        },
-        {
-            "username": null,
-            "id": "rm-gavilanesedwin"
         }
     ]
 }
