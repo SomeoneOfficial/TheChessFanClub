@@ -425,10 +425,15 @@
             "fullName": "586th ULTRAbullet Team Battle",
             "link": "https://lichess.org/tournament/2abvq2xe",
             "date": 1787666400000
+        },
+        "btbUOKJx": {
+            "fullName": "LIGA TITANES TEMPORADA II R.3 Team Battle",
+            "link": "https://lichess.org/tournament/btbUOKJx",
+            "date": 1787709600000
         }
     },
     "player_leaderboard": {
-        "Sjisland_The_Zerker": 253,
+        "Sjisland_The_Zerker": 256,
         "Pranav_Arunprasad": 206,
         "chessuae": 121,
         "AJisland": 110,
@@ -453,6 +458,7 @@
         "X0L55": 6,
         "sacrifice247": 6,
         "ekaterina_vovna": 6,
+        "Busy_Checkmating": 6,
         "Frandenegri": 5,
         "GambitGuru003": 4,
         "scarletov": 4,
@@ -481,7 +487,6 @@
         "SarapciRemzi": 0,
         "scenicsen": 0,
         "iloveoil6": 0,
-        "Busy_Checkmating": 0,
         "Willyamf999": 0,
         "ARYA3_S": 0,
         "chanu16": 0
@@ -594,12 +599,6 @@
             "fullName": "Best Ultra League 458th Team Battle",
             "link": "https://lichess.org/tournament/HmU4XT2b",
             "startsAt": 1787745600000
-        },
-        {
-            "id": "btbUOKJx",
-            "fullName": "LIGA TITANES TEMPORADA II R.3 Team Battle",
-            "link": "https://lichess.org/tournament/btbUOKJx",
-            "startsAt": 1787709600000
         }
     ],
     "recent_joiners": [
