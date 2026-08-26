@@ -430,6 +430,11 @@
             "fullName": "LIGA TITANES TEMPORADA II R.3 Team Battle",
             "link": "https://lichess.org/tournament/btbUOKJx",
             "date": 1787709600000
+        },
+        "HmU4XT2b": {
+            "fullName": "Best Ultra League 458th Team Battle",
+            "link": "https://lichess.org/tournament/HmU4XT2b",
+            "date": 1787745600000
         }
     },
     "player_leaderboard": {
@@ -593,12 +598,6 @@
             "fullName": "587th ULTRAbullet Team Battle",
             "link": "https://lichess.org/tournament/LihQlTK9",
             "startsAt": 1787752800000
-        },
-        {
-            "id": "HmU4XT2b",
-            "fullName": "Best Ultra League 458th Team Battle",
-            "link": "https://lichess.org/tournament/HmU4XT2b",
-            "startsAt": 1787745600000
         }
     ],
     "recent_joiners": [
