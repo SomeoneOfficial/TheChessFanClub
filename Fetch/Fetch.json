@@ -435,6 +435,11 @@
             "fullName": "Best Ultra League 458th Team Battle",
             "link": "https://lichess.org/tournament/HmU4XT2b",
             "date": 1787745600000
+        },
+        "LihQlTK9": {
+            "fullName": "587th ULTRAbullet Team Battle",
+            "link": "https://lichess.org/tournament/LihQlTK9",
+            "date": 1787752800000
         }
     },
     "player_leaderboard": {
@@ -586,12 +591,6 @@
             "fullName": "LIGA TITANES TEMPORADAII R.4 Team Battle",
             "link": "https://lichess.org/tournament/ye4Tukz6",
             "startsAt": 1787796000000
-        },
-        {
-            "id": "LihQlTK9",
-            "fullName": "587th ULTRAbullet Team Battle",
-            "link": "https://lichess.org/tournament/LihQlTK9",
-            "startsAt": 1787752800000
         }
     ],
     "recent_joiners": [
