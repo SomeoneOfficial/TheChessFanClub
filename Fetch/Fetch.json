@@ -455,11 +455,16 @@
             "fullName": "LIGA TITANES TEMPORADAII R.4 Team Battle",
             "link": "https://lichess.org/tournament/ye4Tukz6",
             "date": 1787796000000
+        },
+        "37g43Act": {
+            "fullName": "588th ULTRAbullet Team Battle",
+            "link": "https://lichess.org/tournament/37g43Act",
+            "date": 1787839200000
         }
     },
     "player_leaderboard": {
         "Sjisland_The_Zerker": 256,
-        "Pranav_Arunprasad": 206,
+        "Pranav_Arunprasad": 215,
         "chessuae": 121,
         "AJisland": 110,
         "JuanAgamaM": 60,
@@ -600,12 +605,6 @@
             "fullName": "Best Ultra League 460th Team Battle",
             "link": "https://lichess.org/tournament/hfkJxM7F",
             "startsAt": 1787918400000
-        },
-        {
-            "id": "37g43Act",
-            "fullName": "588th ULTRAbullet Team Battle",
-            "link": "https://lichess.org/tournament/37g43Act",
-            "startsAt": 1787839200000
         }
     ],
     "recent_joiners": [
