@@ -450,6 +450,11 @@
             "fullName": "chess fan Arena",
             "link": "https://lichess.org/tournament/a8hc3F4u",
             "date": 1787774389461
+        },
+        "ye4Tukz6": {
+            "fullName": "LIGA TITANES TEMPORADAII R.4 Team Battle",
+            "link": "https://lichess.org/tournament/ye4Tukz6",
+            "date": 1787796000000
         }
     },
     "player_leaderboard": {
@@ -595,12 +600,6 @@
             "fullName": "Best Ultra League 460th Team Battle",
             "link": "https://lichess.org/tournament/hfkJxM7F",
             "startsAt": 1787918400000
-        },
-        {
-            "id": "ye4Tukz6",
-            "fullName": "LIGA TITANES TEMPORADAII R.4 Team Battle",
-            "link": "https://lichess.org/tournament/ye4Tukz6",
-            "startsAt": 1787796000000
         }
     ],
     "recent_joiners": [
