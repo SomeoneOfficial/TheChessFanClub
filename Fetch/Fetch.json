@@ -460,6 +460,11 @@
             "fullName": "588th ULTRAbullet Team Battle",
             "link": "https://lichess.org/tournament/37g43Act",
             "date": 1787839200000
+        },
+        "hfkJxM7F": {
+            "fullName": "Best Ultra League 460th Team Battle",
+            "link": "https://lichess.org/tournament/hfkJxM7F",
+            "date": 1787918400000
         }
     },
     "player_leaderboard": {
@@ -635,12 +640,6 @@
             "fullName": "Friendly team fights Team Battle",
             "link": "https://lichess.org/tournament/Fq8fZBJz",
             "startsAt": 1787929200000
-        },
-        {
-            "id": "hfkJxM7F",
-            "fullName": "Best Ultra League 460th Team Battle",
-            "link": "https://lichess.org/tournament/hfkJxM7F",
-            "startsAt": 1787918400000
         }
     ],
     "recent_joiners": [
