@@ -475,6 +475,11 @@
             "fullName": "Best Ultra League 461st Team Battle",
             "link": "https://lichess.org/tournament/ilHIzzCM",
             "date": 1788004800000
+        },
+        "V9sQ4n6O": {
+            "fullName": "Friendly team fights Team Battle",
+            "link": "https://lichess.org/tournament/V9sQ4n6O",
+            "date": 1788015600000
         }
     },
     "player_leaderboard": {
@@ -482,9 +487,9 @@
         "Pranav_Arunprasad": 215,
         "chessuae": 121,
         "AJisland": 110,
+        "SJisland": 64,
         "JuanAgamaM": 60,
         "Allez-OM": 41,
-        "SJisland": 39,
         "Rarelyadraw": 37,
         "Daniel1728": 35,
         "Tu_Elo_sera_mio1": 31,
@@ -626,12 +631,6 @@
             "fullName": "2\u00ba MARAT\u00d3N DE TITANES V Team Battle",
             "link": "https://lichess.org/tournament/3lOt44Pu",
             "startsAt": 1788019200000
-        },
-        {
-            "id": "V9sQ4n6O",
-            "fullName": "Friendly team fights Team Battle",
-            "link": "https://lichess.org/tournament/V9sQ4n6O",
-            "startsAt": 1788015600000
         }
     ],
     "recent_joiners": [
