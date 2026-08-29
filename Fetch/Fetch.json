@@ -470,6 +470,11 @@
             "fullName": "Friendly team fights Team Battle",
             "link": "https://lichess.org/tournament/Fq8fZBJz",
             "date": 1787929200000
+        },
+        "ilHIzzCM": {
+            "fullName": "Best Ultra League 461st Team Battle",
+            "link": "https://lichess.org/tournament/ilHIzzCM",
+            "date": 1788004800000
         }
     },
     "player_leaderboard": {
@@ -633,12 +638,6 @@
             "fullName": "Friendly team fights Team Battle",
             "link": "https://lichess.org/tournament/V9sQ4n6O",
             "startsAt": 1788015600000
-        },
-        {
-            "id": "ilHIzzCM",
-            "fullName": "Best Ultra League 461st Team Battle",
-            "link": "https://lichess.org/tournament/ilHIzzCM",
-            "startsAt": 1788004800000
         }
     ],
     "recent_joiners": [
