@@ -490,6 +490,11 @@
             "fullName": "Best Ultra League 462nd Team Battle",
             "link": "https://lichess.org/tournament/u2d1xBYG",
             "date": 1788091200000
+        },
+        "Ri6hPOLk": {
+            "fullName": "15+15-Sonntagnachmittag Team Battle",
+            "link": "https://lichess.org/tournament/Ri6hPOLk",
+            "date": 1788096600000
         }
     },
     "player_leaderboard": {
@@ -549,7 +554,8 @@
         "iloveoil6": 0,
         "Willyamf999": 0,
         "ARYA3_S": 0,
-        "chanu16": 0
+        "chanu16": 0,
+        "PenguinL3": 0
     },
     "upcoming_tournaments": [
         {
@@ -623,12 +629,6 @@
             "fullName": "Friendly team fights Team Battle",
             "link": "https://lichess.org/tournament/QIOfUWRh",
             "startsAt": 1788102000000
-        },
-        {
-            "id": "Ri6hPOLk",
-            "fullName": "15+15-Sonntagnachmittag Team Battle",
-            "link": "https://lichess.org/tournament/Ri6hPOLk",
-            "startsAt": 1788096600000
         }
     ],
     "recent_joiners": [
