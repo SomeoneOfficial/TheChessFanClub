@@ -505,6 +505,11 @@
             "fullName": "Best Ultra League 463rd Team Battle",
             "link": "https://lichess.org/tournament/I9tfHZs5",
             "date": 1788177600000
+        },
+        "2Wcdu5Cs": {
+            "fullName": "Friendly team fights Team Battle",
+            "link": "https://lichess.org/tournament/2Wcdu5Cs",
+            "date": 1788188400000
         }
     },
     "player_leaderboard": {
@@ -621,12 +626,6 @@
             "fullName": "Friendly team fights Team Battle",
             "link": "https://lichess.org/tournament/oBzv9eNE",
             "startsAt": 1788274800000
-        },
-        {
-            "id": "2Wcdu5Cs",
-            "fullName": "Friendly team fights Team Battle",
-            "link": "https://lichess.org/tournament/2Wcdu5Cs",
-            "startsAt": 1788188400000
         }
     ],
     "recent_joiners": [
