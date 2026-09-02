@@ -515,6 +515,11 @@
             "fullName": "Friendly team fights Team Battle",
             "link": "https://lichess.org/tournament/oBzv9eNE",
             "date": 1788274800000
+        },
+        "wmnATLkU": {
+            "fullName": "Friendly team fights Team Battle",
+            "link": "https://lichess.org/tournament/wmnATLkU",
+            "date": 1788361200000
         }
     },
     "player_leaderboard": {
@@ -619,12 +624,6 @@
             "fullName": "2\u00ba MARAT\u00d3N DE TITANES VI Team Battle",
             "link": "https://lichess.org/tournament/5Yi9DtNa",
             "startsAt": 1788624000000
-        },
-        {
-            "id": "wmnATLkU",
-            "fullName": "Friendly team fights Team Battle",
-            "link": "https://lichess.org/tournament/wmnATLkU",
-            "startsAt": 1788361200000
         }
     ],
     "recent_joiners": [
