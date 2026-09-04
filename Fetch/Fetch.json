@@ -530,6 +530,11 @@
             "fullName": "Chess mood prize Arena",
             "link": "https://lichess.org/tournament/T8MAJK6R",
             "date": 1788469200000
+        },
+        "yhThYo4a": {
+            "fullName": "147th Lichess Mega Team Battle",
+            "link": "https://lichess.org/tournament/yhThYo4a",
+            "date": 1788537600000
         }
     },
     "player_leaderboard": {
@@ -539,10 +544,10 @@
         "AJisland": 110,
         "SJisland": 76,
         "JuanAgamaM": 60,
+        "Tu_Elo_sera_mio1": 48,
         "Allez-OM": 41,
         "Rarelyadraw": 37,
         "Daniel1728": 35,
-        "Tu_Elo_sera_mio1": 31,
         "TB_M4": 27,
         "RM-GAVILANESEDWIN": 27,
         "Imnotonmyday": 26,
@@ -634,12 +639,6 @@
             "fullName": "2\u00ba MARAT\u00d3N DE TITANES VI Team Battle",
             "link": "https://lichess.org/tournament/5Yi9DtNa",
             "startsAt": 1788624000000
-        },
-        {
-            "id": "yhThYo4a",
-            "fullName": "147th Lichess Mega Team Battle",
-            "link": "https://lichess.org/tournament/yhThYo4a",
-            "startsAt": 1788537600000
         }
     ],
     "recent_joiners": [
