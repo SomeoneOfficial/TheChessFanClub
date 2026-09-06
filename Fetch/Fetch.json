@@ -535,16 +535,21 @@
             "fullName": "147th Lichess Mega Team Battle",
             "link": "https://lichess.org/tournament/yhThYo4a",
             "date": 1788537600000
+        },
+        "5Yi9DtNa": {
+            "fullName": "2\u00ba MARAT\u00d3N DE TITANES VI Team Battle",
+            "link": "https://lichess.org/tournament/5Yi9DtNa",
+            "date": 1788624000000
         }
     },
     "player_leaderboard": {
         "Sjisland_The_Zerker": 256,
         "Pranav_Arunprasad": 239,
+        "Tu_Elo_sera_mio1": 178,
         "chessuae": 121,
         "AJisland": 110,
-        "SJisland": 76,
+        "SJisland": 80,
         "JuanAgamaM": 60,
-        "Tu_Elo_sera_mio1": 48,
         "Allez-OM": 41,
         "Rarelyadraw": 37,
         "Daniel1728": 35,
@@ -645,12 +650,6 @@
             "fullName": "15+15-Sonntagnachmittag Team Battle",
             "link": "https://lichess.org/tournament/z1KNYsHB",
             "startsAt": 1788701400000
-        },
-        {
-            "id": "5Yi9DtNa",
-            "fullName": "2\u00ba MARAT\u00d3N DE TITANES VI Team Battle",
-            "link": "https://lichess.org/tournament/5Yi9DtNa",
-            "startsAt": 1788624000000
         }
     ],
     "recent_joiners": [
