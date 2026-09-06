@@ -540,6 +540,11 @@
             "fullName": "2\u00ba MARAT\u00d3N DE TITANES VI Team Battle",
             "link": "https://lichess.org/tournament/5Yi9DtNa",
             "date": 1788624000000
+        },
+        "3EPMo2nE": {
+            "fullName": "596th ULTRAbullet Team Battle",
+            "link": "https://lichess.org/tournament/3EPMo2nE",
+            "date": 1788703200000
         }
     },
     "player_leaderboard": {
@@ -548,7 +553,7 @@
         "Tu_Elo_sera_mio1": 178,
         "chessuae": 121,
         "AJisland": 110,
-        "SJisland": 80,
+        "SJisland": 98,
         "JuanAgamaM": 60,
         "Allez-OM": 41,
         "Rarelyadraw": 37,
@@ -656,12 +661,6 @@
             "fullName": "597th ULTRAbullet Team Battle",
             "link": "https://lichess.org/tournament/pu4brxA3",
             "startsAt": 1788789600000
-        },
-        {
-            "id": "3EPMo2nE",
-            "fullName": "596th ULTRAbullet Team Battle",
-            "link": "https://lichess.org/tournament/3EPMo2nE",
-            "startsAt": 1788703200000
         },
         {
             "id": "z1KNYsHB",
