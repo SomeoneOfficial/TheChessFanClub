@@ -545,6 +545,11 @@
             "fullName": "596th ULTRAbullet Team Battle",
             "link": "https://lichess.org/tournament/3EPMo2nE",
             "date": 1788703200000
+        },
+        "z1KNYsHB": {
+            "fullName": "15+15-Sonntagnachmittag Team Battle",
+            "link": "https://lichess.org/tournament/z1KNYsHB",
+            "date": 1788701400000
         }
     },
     "player_leaderboard": {
@@ -661,12 +666,6 @@
             "fullName": "597th ULTRAbullet Team Battle",
             "link": "https://lichess.org/tournament/pu4brxA3",
             "startsAt": 1788789600000
-        },
-        {
-            "id": "z1KNYsHB",
-            "fullName": "15+15-Sonntagnachmittag Team Battle",
-            "link": "https://lichess.org/tournament/z1KNYsHB",
-            "startsAt": 1788701400000
         }
     ],
     "recent_joiners": [
