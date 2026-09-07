@@ -550,6 +550,11 @@
             "fullName": "15+15-Sonntagnachmittag Team Battle",
             "link": "https://lichess.org/tournament/z1KNYsHB",
             "date": 1788701400000
+        },
+        "pu4brxA3": {
+            "fullName": "597th ULTRAbullet Team Battle",
+            "link": "https://lichess.org/tournament/pu4brxA3",
+            "date": 1788789600000
         }
     },
     "player_leaderboard": {
@@ -660,12 +665,6 @@
             "fullName": "LIGA TITANES TEMPORADA II R.5 Team Battle",
             "link": "https://lichess.org/tournament/rCYu7Ylh",
             "startsAt": 1788919200000
-        },
-        {
-            "id": "pu4brxA3",
-            "fullName": "597th ULTRAbullet Team Battle",
-            "link": "https://lichess.org/tournament/pu4brxA3",
-            "startsAt": 1788789600000
         }
     ],
     "recent_joiners": [
