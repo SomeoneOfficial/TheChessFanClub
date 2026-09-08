@@ -560,6 +560,11 @@
             "fullName": "327\u00ba COPA LIBERTADORES Team Battle",
             "link": "https://lichess.org/tournament/vKXQFBER",
             "date": 1788825600000
+        },
+        "GS3iU5xM": {
+            "fullName": "Best Ultra League 471st Team Battle",
+            "link": "https://lichess.org/tournament/GS3iU5xM",
+            "date": 1788868800000
         }
     },
     "player_leaderboard": {
@@ -581,6 +586,7 @@
         "Khabibnigarunoff": 11,
         "KKisland": 11,
         "Adriencanplaychess": 9,
+        "PenguinL3": 9,
         "arcos_25": 8,
         "Master_of_lions": 8,
         "emanekalah": 8,
@@ -619,8 +625,7 @@
         "iloveoil6": 0,
         "Willyamf999": 0,
         "ARYA3_S": 0,
-        "chanu16": 0,
-        "PenguinL3": 0
+        "chanu16": 0
     },
     "upcoming_tournaments": [
         {
@@ -706,12 +711,6 @@
             "fullName": "LIGA TITANES TEMPORADA II R.5 Team Battle",
             "link": "https://lichess.org/tournament/rCYu7Ylh",
             "startsAt": 1788919200000
-        },
-        {
-            "id": "GS3iU5xM",
-            "fullName": "Best Ultra League 471st Team Battle",
-            "link": "https://lichess.org/tournament/GS3iU5xM",
-            "startsAt": 1788868800000
         }
     ],
     "recent_joiners": [
