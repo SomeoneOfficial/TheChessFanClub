@@ -570,6 +570,11 @@
             "fullName": "LIGA TITANES TEMPORADA II R.5 Team Battle",
             "link": "https://lichess.org/tournament/rCYu7Ylh",
             "date": 1788919200000
+        },
+        "uDTm3rTI": {
+            "fullName": "Best Ultra League 472nd Team Battle",
+            "link": "https://lichess.org/tournament/uDTm3rTI",
+            "date": 1788955200000
         }
     },
     "player_leaderboard": {
@@ -577,7 +582,7 @@
         "Pranav_Arunprasad": 239,
         "Tu_Elo_sera_mio1": 178,
         "chessuae": 121,
-        "AJisland": 110,
+        "AJisland": 112,
         "SJisland": 100,
         "JuanAgamaM": 60,
         "Allez-OM": 41,
@@ -734,12 +739,6 @@
             "fullName": "LIGA TITANES TEMPORADA II R.6 Team Battle",
             "link": "https://lichess.org/tournament/yoODNV7w",
             "startsAt": 1789005600000
-        },
-        {
-            "id": "uDTm3rTI",
-            "fullName": "Best Ultra League 472nd Team Battle",
-            "link": "https://lichess.org/tournament/uDTm3rTI",
-            "startsAt": 1788955200000
         },
         {
             "id": "xhuVgrk5",
