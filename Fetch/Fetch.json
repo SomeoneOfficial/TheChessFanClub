@@ -565,10 +565,15 @@
             "fullName": "Best Ultra League 471st Team Battle",
             "link": "https://lichess.org/tournament/GS3iU5xM",
             "date": 1788868800000
+        },
+        "rCYu7Ylh": {
+            "fullName": "LIGA TITANES TEMPORADA II R.5 Team Battle",
+            "link": "https://lichess.org/tournament/rCYu7Ylh",
+            "date": 1788919200000
         }
     },
     "player_leaderboard": {
-        "Sjisland_The_Zerker": 256,
+        "Sjisland_The_Zerker": 292,
         "Pranav_Arunprasad": 239,
         "Tu_Elo_sera_mio1": 178,
         "chessuae": 121,
@@ -741,12 +746,6 @@
             "fullName": "1st RS Chess Day Team Battle",
             "link": "https://lichess.org/tournament/xhuVgrk5",
             "startsAt": 1788937200000
-        },
-        {
-            "id": "rCYu7Ylh",
-            "fullName": "LIGA TITANES TEMPORADA II R.5 Team Battle",
-            "link": "https://lichess.org/tournament/rCYu7Ylh",
-            "startsAt": 1788919200000
         }
     ],
     "recent_joiners": [
