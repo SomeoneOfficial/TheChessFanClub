@@ -585,6 +585,11 @@
             "fullName": "LIGA TITANES TEMPORADA II R.6 Team Battle",
             "link": "https://lichess.org/tournament/yoODNV7w",
             "date": 1789005600000
+        },
+        "i0UWYY8E": {
+            "fullName": "Best Ultra League 473rd Team Battle",
+            "link": "https://lichess.org/tournament/i0UWYY8E",
+            "date": 1789041600000
         }
     },
     "player_leaderboard": {
@@ -743,12 +748,6 @@
             "fullName": "600th ULTRAbullet Team Battle",
             "link": "https://lichess.org/tournament/U4fA64iV",
             "startsAt": 1789048800000
-        },
-        {
-            "id": "i0UWYY8E",
-            "fullName": "Best Ultra League 473rd Team Battle",
-            "link": "https://lichess.org/tournament/i0UWYY8E",
-            "startsAt": 1789041600000
         }
     ],
     "recent_joiners": [
