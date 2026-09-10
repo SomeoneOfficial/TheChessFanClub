@@ -580,6 +580,11 @@
             "fullName": "Lichess Bullet League 44B Team Battle",
             "link": "https://lichess.org/tournament/4YaJ2UPW",
             "date": 1788976800000
+        },
+        "yoODNV7w": {
+            "fullName": "LIGA TITANES TEMPORADA II R.6 Team Battle",
+            "link": "https://lichess.org/tournament/yoODNV7w",
+            "date": 1789005600000
         }
     },
     "player_leaderboard": {
@@ -744,12 +749,6 @@
             "fullName": "Best Ultra League 473rd Team Battle",
             "link": "https://lichess.org/tournament/i0UWYY8E",
             "startsAt": 1789041600000
-        },
-        {
-            "id": "yoODNV7w",
-            "fullName": "LIGA TITANES TEMPORADA II R.6 Team Battle",
-            "link": "https://lichess.org/tournament/yoODNV7w",
-            "startsAt": 1789005600000
         }
     ],
     "recent_joiners": [
