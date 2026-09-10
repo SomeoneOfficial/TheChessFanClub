@@ -590,6 +590,11 @@
             "fullName": "Best Ultra League 473rd Team Battle",
             "link": "https://lichess.org/tournament/i0UWYY8E",
             "date": 1789041600000
+        },
+        "U4fA64iV": {
+            "fullName": "600th ULTRAbullet Team Battle",
+            "link": "https://lichess.org/tournament/U4fA64iV",
+            "date": 1789048800000
         }
     },
     "player_leaderboard": {
@@ -631,6 +636,7 @@
         "Multikasking": 2,
         "AKOVOHOUANDE": 2,
         "ivanwrest": 2,
+        "sudo123": 2,
         "Toussaint76": 0,
         "Ransjohnyy": 0,
         "dodyeng": 0,
@@ -742,12 +748,6 @@
             "fullName": "Best Ultra League 474th Team Battle",
             "link": "https://lichess.org/tournament/QaMjm2Ae",
             "startsAt": 1789128000000
-        },
-        {
-            "id": "U4fA64iV",
-            "fullName": "600th ULTRAbullet Team Battle",
-            "link": "https://lichess.org/tournament/U4fA64iV",
-            "startsAt": 1789048800000
         }
     ],
     "recent_joiners": [
