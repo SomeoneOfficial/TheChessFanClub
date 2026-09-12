@@ -600,6 +600,11 @@
             "fullName": "Best Ultra League 474th Team Battle",
             "link": "https://lichess.org/tournament/QaMjm2Ae",
             "date": 1789128000000
+        },
+        "AyhgO2Ji": {
+            "fullName": "L. H. BULLET LXIII Team Battle",
+            "link": "https://lichess.org/tournament/AyhgO2Ji",
+            "date": 1789178400000
         }
     },
     "player_leaderboard": {
@@ -855,12 +860,6 @@
             "fullName": "Best Ultra League 475th Team Battle",
             "link": "https://lichess.org/tournament/wUAqx2V5",
             "startsAt": 1789214400000
-        },
-        {
-            "id": "AyhgO2Ji",
-            "fullName": "L. H. BULLET LXIII Team Battle",
-            "link": "https://lichess.org/tournament/AyhgO2Ji",
-            "startsAt": 1789178400000
         }
     ],
     "recent_joiners": [
