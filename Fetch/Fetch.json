@@ -605,6 +605,11 @@
             "fullName": "L. H. BULLET LXIII Team Battle",
             "link": "https://lichess.org/tournament/AyhgO2Ji",
             "date": 1789178400000
+        },
+        "wUAqx2V5": {
+            "fullName": "Best Ultra League 475th Team Battle",
+            "link": "https://lichess.org/tournament/wUAqx2V5",
+            "date": 1789214400000
         }
     },
     "player_leaderboard": {
@@ -854,12 +859,6 @@
             "fullName": "2\u00ba MARAT\u00d3N DE TITANES VII Team Battle",
             "link": "https://lichess.org/tournament/e9SSw6Zr",
             "startsAt": 1789228800000
-        },
-        {
-            "id": "wUAqx2V5",
-            "fullName": "Best Ultra League 475th Team Battle",
-            "link": "https://lichess.org/tournament/wUAqx2V5",
-            "startsAt": 1789214400000
         }
     ],
     "recent_joiners": [
