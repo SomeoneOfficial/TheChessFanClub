@@ -615,6 +615,11 @@
             "fullName": "2\u00ba MARAT\u00d3N DE TITANES VII Team Battle",
             "link": "https://lichess.org/tournament/e9SSw6Zr",
             "date": 1789228800000
+        },
+        "MdqVH5IK": {
+            "fullName": "Best Ultra League 476th Team Battle",
+            "link": "https://lichess.org/tournament/MdqVH5IK",
+            "date": 1789300800000
         }
     },
     "player_leaderboard": {
@@ -852,12 +857,6 @@
             "fullName": "S.6 - ULTRABULLET PREMIER CUP Team Battle",
             "link": "https://lichess.org/tournament/otK2NoYX",
             "startsAt": 1789306200000
-        },
-        {
-            "id": "MdqVH5IK",
-            "fullName": "Best Ultra League 476th Team Battle",
-            "link": "https://lichess.org/tournament/MdqVH5IK",
-            "startsAt": 1789300800000
         }
     ],
     "recent_joiners": [
