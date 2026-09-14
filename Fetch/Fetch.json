@@ -635,6 +635,11 @@
             "fullName": "Best Ultra League 477th Team Battle",
             "link": "https://lichess.org/tournament/IiJntTC9",
             "date": 1789387200000
+        },
+        "VURk7g9a": {
+            "fullName": "S.6 - ULTRABULLET PREMIER CUP Team Battle",
+            "link": "https://lichess.org/tournament/VURk7g9a",
+            "date": 1789392600000
         }
     },
     "player_leaderboard": {
@@ -653,6 +658,7 @@
         "Imnotonmyday": 26,
         "Mkhlff93": 20,
         "playerchess2019": 18,
+        "sudo123": 14,
         "Khabibnigarunoff": 11,
         "KKisland": 11,
         "Adriencanplaychess": 9,
@@ -676,7 +682,6 @@
         "Multikasking": 2,
         "AKOVOHOUANDE": 2,
         "ivanwrest": 2,
-        "sudo123": 2,
         "Toussaint76": 0,
         "Ransjohnyy": 0,
         "dodyeng": 0,
@@ -848,12 +853,6 @@
             "fullName": "S.6 - ULTRABULLET PREMIER CUP Team Battle",
             "link": "https://lichess.org/tournament/TKzStJGS",
             "startsAt": 1789479000000
-        },
-        {
-            "id": "VURk7g9a",
-            "fullName": "S.6 - ULTRABULLET PREMIER CUP Team Battle",
-            "link": "https://lichess.org/tournament/VURk7g9a",
-            "startsAt": 1789392600000
         }
     ],
     "recent_joiners": [
