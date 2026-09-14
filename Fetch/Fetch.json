@@ -630,6 +630,11 @@
             "fullName": "15+15-Sonntagnachmittag Team Battle",
             "link": "https://lichess.org/tournament/XYqclp3T",
             "date": 1789306200000
+        },
+        "IiJntTC9": {
+            "fullName": "Best Ultra League 477th Team Battle",
+            "link": "https://lichess.org/tournament/IiJntTC9",
+            "date": 1789387200000
         }
     },
     "player_leaderboard": {
@@ -849,12 +854,6 @@
             "fullName": "S.6 - ULTRABULLET PREMIER CUP Team Battle",
             "link": "https://lichess.org/tournament/VURk7g9a",
             "startsAt": 1789392600000
-        },
-        {
-            "id": "IiJntTC9",
-            "fullName": "Best Ultra League 477th Team Battle",
-            "link": "https://lichess.org/tournament/IiJntTC9",
-            "startsAt": 1789387200000
         }
     ],
     "recent_joiners": [
