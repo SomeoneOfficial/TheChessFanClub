@@ -640,6 +640,11 @@
             "fullName": "S.6 - ULTRABULLET PREMIER CUP Team Battle",
             "link": "https://lichess.org/tournament/VURk7g9a",
             "date": 1789392600000
+        },
+        "TKzStJGS": {
+            "fullName": "S.6 - ULTRABULLET PREMIER CUP Team Battle",
+            "link": "https://lichess.org/tournament/TKzStJGS",
+            "date": 1789479000000
         }
     },
     "player_leaderboard": {
@@ -656,6 +661,7 @@
         "TB_M4": 27,
         "RM-GAVILANESEDWIN": 27,
         "Imnotonmyday": 26,
+        "Aditya-Beast": 21,
         "Mkhlff93": 20,
         "playerchess2019": 18,
         "sudo123": 14,
@@ -847,12 +853,6 @@
             "fullName": "Friendly team fights Team Battle",
             "link": "https://lichess.org/tournament/SDZxmmjq",
             "startsAt": 1789484400000
-        },
-        {
-            "id": "TKzStJGS",
-            "fullName": "S.6 - ULTRABULLET PREMIER CUP Team Battle",
-            "link": "https://lichess.org/tournament/TKzStJGS",
-            "startsAt": 1789479000000
         }
     ],
     "recent_joiners": [
