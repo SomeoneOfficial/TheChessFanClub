@@ -650,12 +650,17 @@
             "fullName": "Friendly team fights Team Battle",
             "link": "https://lichess.org/tournament/SDZxmmjq",
             "date": 1789484400000
+        },
+        "5DsedWRf": {
+            "fullName": "Friendly team fights Team Battle",
+            "link": "https://lichess.org/tournament/5DsedWRf",
+            "date": 1789570800000
         }
     },
     "player_leaderboard": {
         "Sjisland_The_Zerker": 292,
         "Pranav_Arunprasad": 239,
-        "Tu_Elo_sera_mio1": 178,
+        "Tu_Elo_sera_mio1": 187,
         "chessuae": 121,
         "AJisland": 112,
         "SJisland": 100,
@@ -712,7 +717,8 @@
         "iloveoil6": 0,
         "Willyamf999": 0,
         "ARYA3_S": 0,
-        "chanu16": 0
+        "chanu16": 0,
+        "Aditya-Rath-2016": 0
     },
     "upcoming_tournaments": [
         {
@@ -846,12 +852,6 @@
             "fullName": "S.6 - ULTRABULLET PREMIER CUP Team Battle",
             "link": "https://lichess.org/tournament/rY8ufn18",
             "startsAt": 1789651800000
-        },
-        {
-            "id": "5DsedWRf",
-            "fullName": "Friendly team fights Team Battle",
-            "link": "https://lichess.org/tournament/5DsedWRf",
-            "startsAt": 1789570800000
         }
     ],
     "recent_joiners": [
