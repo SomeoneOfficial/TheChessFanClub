@@ -660,6 +660,11 @@
             "fullName": "S.6 - ULTRABULLET PREMIER CUP Team Battle",
             "link": "https://lichess.org/tournament/rY8ufn18",
             "date": 1789651800000
+        },
+        "FTtjyDpY": {
+            "fullName": "Friendly team fights Team Battle",
+            "link": "https://lichess.org/tournament/FTtjyDpY",
+            "date": 1789657200000
         }
     },
     "player_leaderboard": {
@@ -845,12 +850,6 @@
             "fullName": "Friendly team fights Team Battle",
             "link": "https://lichess.org/tournament/VLG92yHJ",
             "startsAt": 1789743600000
-        },
-        {
-            "id": "FTtjyDpY",
-            "fullName": "Friendly team fights Team Battle",
-            "link": "https://lichess.org/tournament/FTtjyDpY",
-            "startsAt": 1789657200000
         }
     ],
     "recent_joiners": [
