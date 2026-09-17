@@ -857,6 +857,10 @@
     "recent_joiners": [
         {
             "username": null,
+            "id": "chess_world07"
+        },
+        {
+            "username": null,
             "id": "aditya-beast"
         },
         {
@@ -870,10 +874,6 @@
         {
             "username": null,
             "id": "pzyf0"
-        },
-        {
-            "username": null,
-            "id": "penguinl3"
         }
     ]
 }
