@@ -675,6 +675,11 @@
             "fullName": "FINAL S.6 - U.B. PREMIER CUP Team Battle",
             "link": "https://lichess.org/tournament/uuZPekcT",
             "date": 1789824600000
+        },
+        "j33bNOtG": {
+            "fullName": "Friendly team fights Team Battle",
+            "link": "https://lichess.org/tournament/j33bNOtG",
+            "date": 1789830000000
         }
     },
     "player_leaderboard": {
@@ -842,12 +847,6 @@
             "fullName": "2\u00ba MARAT\u00d3N DE TITANES VIII Team Battle",
             "link": "https://lichess.org/tournament/K1BDtTji",
             "startsAt": 1789833600000
-        },
-        {
-            "id": "j33bNOtG",
-            "fullName": "Friendly team fights Team Battle",
-            "link": "https://lichess.org/tournament/j33bNOtG",
-            "startsAt": 1789830000000
         }
     ],
     "recent_joiners": [
