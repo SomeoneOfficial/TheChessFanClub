@@ -670,6 +670,11 @@
             "fullName": "Friendly team fights Team Battle",
             "link": "https://lichess.org/tournament/VLG92yHJ",
             "date": 1789743600000
+        },
+        "uuZPekcT": {
+            "fullName": "FINAL S.6 - U.B. PREMIER CUP Team Battle",
+            "link": "https://lichess.org/tournament/uuZPekcT",
+            "date": 1789824600000
         }
     },
     "player_leaderboard": {
@@ -843,12 +848,6 @@
             "fullName": "Friendly team fights Team Battle",
             "link": "https://lichess.org/tournament/j33bNOtG",
             "startsAt": 1789830000000
-        },
-        {
-            "id": "uuZPekcT",
-            "fullName": "FINAL S.6 - U.B. PREMIER CUP Team Battle",
-            "link": "https://lichess.org/tournament/uuZPekcT",
-            "startsAt": 1789824600000
         }
     ],
     "recent_joiners": [
