@@ -680,6 +680,11 @@
             "fullName": "Friendly team fights Team Battle",
             "link": "https://lichess.org/tournament/j33bNOtG",
             "date": 1789830000000
+        },
+        "K1BDtTji": {
+            "fullName": "2\u00ba MARAT\u00d3N DE TITANES VIII Team Battle",
+            "link": "https://lichess.org/tournament/K1BDtTji",
+            "date": 1789833600000
         }
     },
     "player_leaderboard": {
@@ -841,12 +846,6 @@
             "fullName": "15+15-Sonntagnachmittag Team Battle",
             "link": "https://lichess.org/tournament/cOfqEYji",
             "startsAt": 1789911000000
-        },
-        {
-            "id": "K1BDtTji",
-            "fullName": "2\u00ba MARAT\u00d3N DE TITANES VIII Team Battle",
-            "link": "https://lichess.org/tournament/K1BDtTji",
-            "startsAt": 1789833600000
         }
     ],
     "recent_joiners": [
