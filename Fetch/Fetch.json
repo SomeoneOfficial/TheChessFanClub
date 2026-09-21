@@ -695,6 +695,11 @@
             "fullName": "Friendly team fights Team Battle",
             "link": "https://lichess.org/tournament/xsuQt2hl",
             "date": 1789916400000
+        },
+        "PbX5EYrh": {
+            "fullName": "Friendly team fights Team Battle",
+            "link": "https://lichess.org/tournament/PbX5EYrh",
+            "date": 1790002800000
         }
     },
     "player_leaderboard": {
@@ -838,12 +843,6 @@
             "fullName": "Friendly team fights Team Battle",
             "link": "https://lichess.org/tournament/A3dx3FO5",
             "startsAt": 1790089200000
-        },
-        {
-            "id": "PbX5EYrh",
-            "fullName": "Friendly team fights Team Battle",
-            "link": "https://lichess.org/tournament/PbX5EYrh",
-            "startsAt": 1790002800000
         }
     ],
     "recent_joiners": [
