@@ -710,12 +710,17 @@
             "fullName": "Best Ultra League 485th Team Battle",
             "link": "https://lichess.org/tournament/NQGWHBIA",
             "date": 1790078400000
+        },
+        "A3dx3FO5": {
+            "fullName": "Friendly team fights Team Battle",
+            "link": "https://lichess.org/tournament/A3dx3FO5",
+            "date": 1790089200000
         }
     },
     "player_leaderboard": {
         "Sjisland_The_Zerker": 292,
         "Pranav_Arunprasad": 239,
-        "Tu_Elo_sera_mio1": 187,
+        "Tu_Elo_sera_mio1": 217,
         "chessuae": 121,
         "AJisland": 112,
         "SJisland": 100,
@@ -847,12 +852,6 @@
             "fullName": "LIGA TITANES TEMPORADA II R.7 Team Battle",
             "link": "https://lichess.org/tournament/V06SA02t",
             "startsAt": 1790128800000
-        },
-        {
-            "id": "A3dx3FO5",
-            "fullName": "Friendly team fights Team Battle",
-            "link": "https://lichess.org/tournament/A3dx3FO5",
-            "startsAt": 1790089200000
         }
     ],
     "recent_joiners": [
