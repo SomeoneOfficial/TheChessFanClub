@@ -700,6 +700,11 @@
             "fullName": "Friendly team fights Team Battle",
             "link": "https://lichess.org/tournament/PbX5EYrh",
             "date": 1790002800000
+        },
+        "Z1TcSu6c": {
+            "fullName": "329\u00ba COPA LIBERTADORES Team Battle",
+            "link": "https://lichess.org/tournament/Z1TcSu6c",
+            "date": 1790035200000
         }
     },
     "player_leaderboard": {
@@ -843,12 +848,6 @@
             "fullName": "Friendly team fights Team Battle",
             "link": "https://lichess.org/tournament/A3dx3FO5",
             "startsAt": 1790089200000
-        },
-        {
-            "id": "Z1TcSu6c",
-            "fullName": "329\u00ba COPA LIBERTADORES Team Battle",
-            "link": "https://lichess.org/tournament/Z1TcSu6c",
-            "startsAt": 1790035200000
         }
     ],
     "recent_joiners": [
