@@ -715,6 +715,11 @@
             "fullName": "Friendly team fights Team Battle",
             "link": "https://lichess.org/tournament/A3dx3FO5",
             "date": 1790089200000
+        },
+        "V06SA02t": {
+            "fullName": "LIGA TITANES TEMPORADA II R.7 Team Battle",
+            "link": "https://lichess.org/tournament/V06SA02t",
+            "date": 1790128800000
         }
     },
     "player_leaderboard": {
@@ -846,12 +851,6 @@
             "fullName": "Friendly team fights Team Battle",
             "link": "https://lichess.org/tournament/NNu6zJyw",
             "startsAt": 1790175600000
-        },
-        {
-            "id": "V06SA02t",
-            "fullName": "LIGA TITANES TEMPORADA II R.7 Team Battle",
-            "link": "https://lichess.org/tournament/V06SA02t",
-            "startsAt": 1790128800000
         }
     ],
     "recent_joiners": [
