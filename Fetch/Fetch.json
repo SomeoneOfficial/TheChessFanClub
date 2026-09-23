@@ -720,6 +720,11 @@
             "fullName": "LIGA TITANES TEMPORADA II R.7 Team Battle",
             "link": "https://lichess.org/tournament/V06SA02t",
             "date": 1790128800000
+        },
+        "NNu6zJyw": {
+            "fullName": "Friendly team fights Team Battle",
+            "link": "https://lichess.org/tournament/NNu6zJyw",
+            "date": 1790175600000
         }
     },
     "player_leaderboard": {
@@ -783,7 +788,8 @@
         "Willyamf999": 0,
         "ARYA3_S": 0,
         "chanu16": 0,
-        "Aditya-Rath-2016": 0
+        "Aditya-Rath-2016": 0,
+        "maks9099090": 0
     },
     "upcoming_tournaments": [
         {
@@ -845,12 +851,6 @@
             "fullName": "Friendly team fights Team Battle",
             "link": "https://lichess.org/tournament/yUbjEkU3",
             "startsAt": 1790262000000
-        },
-        {
-            "id": "NNu6zJyw",
-            "fullName": "Friendly team fights Team Battle",
-            "link": "https://lichess.org/tournament/NNu6zJyw",
-            "startsAt": 1790175600000
         }
     ],
     "recent_joiners": [
