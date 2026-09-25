@@ -735,6 +735,11 @@
             "fullName": "Friendly team fights Team Battle",
             "link": "https://lichess.org/tournament/yUbjEkU3",
             "date": 1790262000000
+        },
+        "Tf7susDT": {
+            "fullName": "Friendly team fights Team Battle",
+            "link": "https://lichess.org/tournament/Tf7susDT",
+            "date": 1790348400000
         }
     },
     "player_leaderboard": {
@@ -867,12 +872,6 @@
             "fullName": "Friendly team fights Team Battle",
             "link": "https://lichess.org/tournament/i67afrpA",
             "startsAt": 1790434800000
-        },
-        {
-            "id": "Tf7susDT",
-            "fullName": "Friendly team fights Team Battle",
-            "link": "https://lichess.org/tournament/Tf7susDT",
-            "startsAt": 1790348400000
         }
     ],
     "recent_joiners": [
