@@ -740,6 +740,11 @@
             "fullName": "Friendly team fights Team Battle",
             "link": "https://lichess.org/tournament/Tf7susDT",
             "date": 1790348400000
+        },
+        "i67afrpA": {
+            "fullName": "Friendly team fights Team Battle",
+            "link": "https://lichess.org/tournament/i67afrpA",
+            "date": 1790434800000
         }
     },
     "player_leaderboard": {
@@ -866,12 +871,6 @@
             "fullName": "GRAN FINAL MARAT\u00d3N DE TITANES Team Battle",
             "link": "https://lichess.org/tournament/hAVXMCX6",
             "startsAt": 1790438400000
-        },
-        {
-            "id": "i67afrpA",
-            "fullName": "Friendly team fights Team Battle",
-            "link": "https://lichess.org/tournament/i67afrpA",
-            "startsAt": 1790434800000
         }
     ],
     "recent_joiners": [
