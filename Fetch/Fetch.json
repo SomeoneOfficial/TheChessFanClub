@@ -750,6 +750,11 @@
             "fullName": "GRAN FINAL MARAT\u00d3N DE TITANES Team Battle",
             "link": "https://lichess.org/tournament/hAVXMCX6",
             "date": 1790438400000
+        },
+        "HRYX0Cog": {
+            "fullName": "15+15-Sonntagnachmittag Team Battle",
+            "link": "https://lichess.org/tournament/HRYX0Cog",
+            "date": 1790515800000
         }
     },
     "player_leaderboard": {
@@ -867,12 +872,6 @@
             "fullName": "Friendly team fights Team Battle",
             "link": "https://lichess.org/tournament/j3fLCiQ3",
             "startsAt": 1790521200000
-        },
-        {
-            "id": "HRYX0Cog",
-            "fullName": "15+15-Sonntagnachmittag Team Battle",
-            "link": "https://lichess.org/tournament/HRYX0Cog",
-            "startsAt": 1790515800000
         }
     ],
     "recent_joiners": [
