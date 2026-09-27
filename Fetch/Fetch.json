@@ -755,6 +755,11 @@
             "fullName": "15+15-Sonntagnachmittag Team Battle",
             "link": "https://lichess.org/tournament/HRYX0Cog",
             "date": 1790515800000
+        },
+        "j3fLCiQ3": {
+            "fullName": "Friendly team fights Team Battle",
+            "link": "https://lichess.org/tournament/j3fLCiQ3",
+            "date": 1790521200000
         }
     },
     "player_leaderboard": {
@@ -866,12 +871,6 @@
             "fullName": "Friendly team fights Team Battle",
             "link": "https://lichess.org/tournament/9GzoMaEz",
             "startsAt": 1790607600000
-        },
-        {
-            "id": "j3fLCiQ3",
-            "fullName": "Friendly team fights Team Battle",
-            "link": "https://lichess.org/tournament/j3fLCiQ3",
-            "startsAt": 1790521200000
         }
     ],
     "recent_joiners": [
