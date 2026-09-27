@@ -745,12 +745,17 @@
             "fullName": "Friendly team fights Team Battle",
             "link": "https://lichess.org/tournament/i67afrpA",
             "date": 1790434800000
+        },
+        "hAVXMCX6": {
+            "fullName": "GRAN FINAL MARAT\u00d3N DE TITANES Team Battle",
+            "link": "https://lichess.org/tournament/hAVXMCX6",
+            "date": 1790438400000
         }
     },
     "player_leaderboard": {
         "Sjisland_The_Zerker": 292,
+        "Tu_Elo_sera_mio1": 245,
         "Pranav_Arunprasad": 239,
-        "Tu_Elo_sera_mio1": 217,
         "chessuae": 121,
         "AJisland": 112,
         "SJisland": 100,
@@ -809,7 +814,10 @@
         "ARYA3_S": 0,
         "chanu16": 0,
         "Aditya-Rath-2016": 0,
-        "maks9099090": 0
+        "maks9099090": 0,
+        "AnshR_ICT": 0,
+        "egorchess017": 0,
+        "braveeagle4": 0
     },
     "upcoming_tournaments": [
         {
@@ -865,12 +873,6 @@
             "fullName": "15+15-Sonntagnachmittag Team Battle",
             "link": "https://lichess.org/tournament/HRYX0Cog",
             "startsAt": 1790515800000
-        },
-        {
-            "id": "hAVXMCX6",
-            "fullName": "GRAN FINAL MARAT\u00d3N DE TITANES Team Battle",
-            "link": "https://lichess.org/tournament/hAVXMCX6",
-            "startsAt": 1790438400000
         }
     ],
     "recent_joiners": [
