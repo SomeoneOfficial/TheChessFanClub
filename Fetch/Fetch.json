@@ -770,11 +770,16 @@
             "fullName": "330\u00baB COPA LIBERTADORES Team Battle",
             "link": "https://lichess.org/tournament/rGSVonSv",
             "date": 1790640000000
+        },
+        "iLD4pwNQ": {
+            "fullName": "Friendly team fights Team Battle",
+            "link": "https://lichess.org/tournament/iLD4pwNQ",
+            "date": 1790694000000
         }
     },
     "player_leaderboard": {
         "Sjisland_The_Zerker": 292,
-        "Tu_Elo_sera_mio1": 245,
+        "Tu_Elo_sera_mio1": 252,
         "Pranav_Arunprasad": 239,
         "chessuae": 121,
         "AJisland": 112,
@@ -905,12 +910,6 @@
             "fullName": "LIGA TITANES TEMPORADA II R.8 Team Battle",
             "link": "https://lichess.org/tournament/gQ7zK9lr",
             "startsAt": 1790733600000
-        },
-        {
-            "id": "iLD4pwNQ",
-            "fullName": "Friendly team fights Team Battle",
-            "link": "https://lichess.org/tournament/iLD4pwNQ",
-            "startsAt": 1790694000000
         }
     ],
     "recent_joiners": [
