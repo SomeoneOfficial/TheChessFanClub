@@ -765,6 +765,11 @@
             "fullName": "Friendly team fights Team Battle",
             "link": "https://lichess.org/tournament/9GzoMaEz",
             "date": 1790607600000
+        },
+        "rGSVonSv": {
+            "fullName": "330\u00baB COPA LIBERTADORES Team Battle",
+            "link": "https://lichess.org/tournament/rGSVonSv",
+            "date": 1790640000000
         }
     },
     "player_leaderboard": {
@@ -773,7 +778,7 @@
         "Pranav_Arunprasad": 239,
         "chessuae": 121,
         "AJisland": 112,
-        "SJisland": 100,
+        "SJisland": 110,
         "JuanAgamaM": 60,
         "Allez-OM": 41,
         "Rarelyadraw": 37,
@@ -906,12 +911,6 @@
             "fullName": "Friendly team fights Team Battle",
             "link": "https://lichess.org/tournament/iLD4pwNQ",
             "startsAt": 1790694000000
-        },
-        {
-            "id": "rGSVonSv",
-            "fullName": "330\u00baB COPA LIBERTADORES Team Battle",
-            "link": "https://lichess.org/tournament/rGSVonSv",
-            "startsAt": 1790640000000
         }
     ],
     "recent_joiners": [
