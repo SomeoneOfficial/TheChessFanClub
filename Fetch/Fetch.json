@@ -916,6 +916,10 @@
     "recent_joiners": [
         {
             "username": null,
+            "id": "mayluch"
+        },
+        {
+            "username": null,
             "id": "vovaard1314"
         },
         {
@@ -929,10 +933,6 @@
         {
             "username": null,
             "id": "d4nc3bf4"
-        },
-        {
-            "username": null,
-            "id": "pzyf0"
         }
     ]
 }
