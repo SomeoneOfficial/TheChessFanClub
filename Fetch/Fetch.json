@@ -775,6 +775,11 @@
             "fullName": "Friendly team fights Team Battle",
             "link": "https://lichess.org/tournament/iLD4pwNQ",
             "date": 1790694000000
+        },
+        "gQ7zK9lr": {
+            "fullName": "LIGA TITANES TEMPORADA II R.8 Team Battle",
+            "link": "https://lichess.org/tournament/gQ7zK9lr",
+            "date": 1790733600000
         }
     },
     "player_leaderboard": {
@@ -904,12 +909,6 @@
             "fullName": "Friendly team fights Team Battle",
             "link": "https://lichess.org/tournament/On0Hl35T",
             "startsAt": 1790780400000
-        },
-        {
-            "id": "gQ7zK9lr",
-            "fullName": "LIGA TITANES TEMPORADA II R.8 Team Battle",
-            "link": "https://lichess.org/tournament/gQ7zK9lr",
-            "startsAt": 1790733600000
         }
     ],
     "recent_joiners": [
