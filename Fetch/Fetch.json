@@ -785,11 +785,16 @@
             "fullName": "Friendly team fights Team Battle",
             "link": "https://lichess.org/tournament/On0Hl35T",
             "date": 1790780400000
+        },
+        "ApCqHqjt": {
+            "fullName": "Friendly team fights Team Battle",
+            "link": "https://lichess.org/tournament/ApCqHqjt",
+            "date": 1790865900000
         }
     },
     "player_leaderboard": {
         "Sjisland_The_Zerker": 292,
-        "Tu_Elo_sera_mio1": 252,
+        "Tu_Elo_sera_mio1": 258,
         "Pranav_Arunprasad": 239,
         "chessuae": 121,
         "AJisland": 112,
@@ -902,12 +907,6 @@
             "fullName": "Friendly team fights Team Battle",
             "link": "https://lichess.org/tournament/EnCI7Bno",
             "startsAt": 1790952300000
-        },
-        {
-            "id": "ApCqHqjt",
-            "fullName": "Friendly team fights Team Battle",
-            "link": "https://lichess.org/tournament/ApCqHqjt",
-            "startsAt": 1790865900000
         }
     ],
     "recent_joiners": [
