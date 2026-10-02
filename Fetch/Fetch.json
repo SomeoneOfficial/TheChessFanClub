@@ -790,6 +790,11 @@
             "fullName": "Friendly team fights Team Battle",
             "link": "https://lichess.org/tournament/ApCqHqjt",
             "date": 1790865900000
+        },
+        "EnCI7Bno": {
+            "fullName": "Friendly team fights Team Battle",
+            "link": "https://lichess.org/tournament/EnCI7Bno",
+            "date": 1790952300000
         }
     },
     "player_leaderboard": {
@@ -901,12 +906,6 @@
             "fullName": "MARAT\u00d3N DE TITANES I-3 Team Battle",
             "link": "https://lichess.org/tournament/G8ekSBBe",
             "startsAt": 1791043200000
-        },
-        {
-            "id": "EnCI7Bno",
-            "fullName": "Friendly team fights Team Battle",
-            "link": "https://lichess.org/tournament/EnCI7Bno",
-            "startsAt": 1790952300000
         }
     ],
     "recent_joiners": [
