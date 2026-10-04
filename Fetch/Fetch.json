@@ -795,6 +795,11 @@
             "fullName": "Friendly team fights Team Battle",
             "link": "https://lichess.org/tournament/EnCI7Bno",
             "date": 1790952300000
+        },
+        "G8ekSBBe": {
+            "fullName": "MARAT\u00d3N DE TITANES I-3 Team Battle",
+            "link": "https://lichess.org/tournament/G8ekSBBe",
+            "date": 1791043200000
         }
     },
     "player_leaderboard": {
@@ -900,12 +905,6 @@
             "fullName": "15+15-Sonntagnachmittag Team Battle",
             "link": "https://lichess.org/tournament/HU9A7mx6",
             "startsAt": 1791120600000
-        },
-        {
-            "id": "G8ekSBBe",
-            "fullName": "MARAT\u00d3N DE TITANES I-3 Team Battle",
-            "link": "https://lichess.org/tournament/G8ekSBBe",
-            "startsAt": 1791043200000
         }
     ],
     "recent_joiners": [
