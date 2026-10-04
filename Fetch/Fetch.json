@@ -800,6 +800,11 @@
             "fullName": "MARAT\u00d3N DE TITANES I-3 Team Battle",
             "link": "https://lichess.org/tournament/G8ekSBBe",
             "date": 1791043200000
+        },
+        "HU9A7mx6": {
+            "fullName": "15+15-Sonntagnachmittag Team Battle",
+            "link": "https://lichess.org/tournament/HU9A7mx6",
+            "date": 1791120600000
         }
     },
     "player_leaderboard": {
@@ -899,12 +904,6 @@
             "fullName": "15+15-Sonntagnachmittag Team Battle",
             "link": "https://lichess.org/tournament/ctWF7xip",
             "startsAt": 1791725400000
-        },
-        {
-            "id": "HU9A7mx6",
-            "fullName": "15+15-Sonntagnachmittag Team Battle",
-            "link": "https://lichess.org/tournament/HU9A7mx6",
-            "startsAt": 1791120600000
         }
     ],
     "recent_joiners": [
