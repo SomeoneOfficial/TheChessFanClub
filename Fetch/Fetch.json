@@ -805,6 +805,11 @@
             "fullName": "15+15-Sonntagnachmittag Team Battle",
             "link": "https://lichess.org/tournament/HU9A7mx6",
             "date": 1791120600000
+        },
+        "ctWF7xip": {
+            "fullName": "15+15-Sonntagnachmittag Team Battle",
+            "link": "https://lichess.org/tournament/ctWF7xip",
+            "date": 1791725400000
         }
     },
     "player_leaderboard": {
@@ -898,12 +903,6 @@
             "fullName": "15+15-Sonntagnachmittag Team Battle",
             "link": "https://lichess.org/tournament/q7ldAACi",
             "startsAt": 1792330200000
-        },
-        {
-            "id": "ctWF7xip",
-            "fullName": "15+15-Sonntagnachmittag Team Battle",
-            "link": "https://lichess.org/tournament/ctWF7xip",
-            "startsAt": 1791725400000
         }
     ],
     "recent_joiners": [
