@@ -897,26 +897,5 @@
             "startsAt": 1793543400000
         }
     ],
-    "recent_joiners": [
-        {
-            "username": null,
-            "id": "giantmoose"
-        },
-        {
-            "username": null,
-            "id": "jmajstorovic"
-        },
-        {
-            "username": null,
-            "id": "kandirao"
-        },
-        {
-            "username": null,
-            "id": "tks-houw-ayaanshc1"
-        },
-        {
-            "username": null,
-            "id": "trueno_the_best"
-        }
-    ]
+    "recent_joiners": []
 }
