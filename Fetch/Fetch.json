@@ -820,6 +820,11 @@
             "fullName": "15+15-Sonntagnachmittag Team Battle",
             "link": "https://lichess.org/tournament/xs0djgPK",
             "date": 1792938600000
+        },
+        "wy0wEb51": {
+            "fullName": "15+15-Sonntagnachmittag Team Battle",
+            "link": "https://lichess.org/tournament/wy0wEb51",
+            "date": 1793543400000
         }
     },
     "player_leaderboard": {
@@ -889,14 +894,7 @@
         "egorchess017": 0,
         "braveeagle4": 0
     },
-    "upcoming_tournaments": [
-        {
-            "id": "wy0wEb51",
-            "fullName": "15+15-Sonntagnachmittag Team Battle",
-            "link": "https://lichess.org/tournament/wy0wEb51",
-            "startsAt": 1793543400000
-        }
-    ],
+    "upcoming_tournaments": [],
     "recent_joiners": [
         {
             "username": null,
