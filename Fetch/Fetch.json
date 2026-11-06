@@ -894,7 +894,14 @@
         "egorchess017": 0,
         "braveeagle4": 0
     },
-    "upcoming_tournaments": [],
+    "upcoming_tournaments": [
+        {
+            "id": "MiDfMdRO",
+            "fullName": "1st ChessLiga Bullet Team Battle",
+            "link": "https://lichess.org/tournament/MiDfMdRO",
+            "startsAt": 1794150000000
+        }
+    ],
     "recent_joiners": [
         {
             "username": null,
