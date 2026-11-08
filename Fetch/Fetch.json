@@ -825,6 +825,11 @@
             "fullName": "15+15-Sonntagnachmittag Team Battle",
             "link": "https://lichess.org/tournament/wy0wEb51",
             "date": 1793543400000
+        },
+        "MiDfMdRO": {
+            "fullName": "1st ChessLiga Bullet Team Battle",
+            "link": "https://lichess.org/tournament/MiDfMdRO",
+            "date": 1794150000000
         }
     },
     "player_leaderboard": {
@@ -892,16 +897,10 @@
         "maks9099090": 0,
         "AnshR_ICT": 0,
         "egorchess017": 0,
-        "braveeagle4": 0
+        "braveeagle4": 0,
+        "Lucifer-Magnes1": 0
     },
-    "upcoming_tournaments": [
-        {
-            "id": "MiDfMdRO",
-            "fullName": "1st ChessLiga Bullet Team Battle",
-            "link": "https://lichess.org/tournament/MiDfMdRO",
-            "startsAt": 1794150000000
-        }
-    ],
+    "upcoming_tournaments": [],
     "recent_joiners": [
         {
             "username": null,
