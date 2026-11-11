@@ -904,6 +904,10 @@
     "recent_joiners": [
         {
             "username": null,
+            "id": "moc31"
+        },
+        {
+            "username": null,
             "id": "lucifer-magnes1"
         },
         {
@@ -917,10 +921,6 @@
         {
             "username": null,
             "id": "jmajstorovic"
-        },
-        {
-            "username": null,
-            "id": "kandirao"
         }
     ]
 }
